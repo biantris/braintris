@@ -4,7 +4,12 @@ My fullstack journey (by Beatriz Oliveira)
 
 <p align="center">
     <img width="500" src="./img/banner.png" />
-  </a>
+</p>
+
+<p align="center">
+<a href="https://twitter.com/intent/follow?screen_name=biantris_">
+   <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
+    alt="follow on Twitter"></a>
 </p>
 O objetivo desse repositório é mostrar em público minha jornada e aprendizados como desenvolvedora fullstack.
 
