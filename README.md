@@ -13,7 +13,7 @@ My fullstack journey (by Beatriz Oliveira)
 </p>
 O objetivo desse repositório é mostrar em público minha jornada e aprendizados como desenvolvedora fullstack.
 
-## wip
+## wip 🛠️
 
 ---
 ## To do
