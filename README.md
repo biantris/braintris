@@ -20,7 +20,7 @@ O objetivo desse repositório é mostrar em público minha jornada e aprendizado
 - [ ] Back-End
 - [ ] Front-End
 - [ ] Faculdade
-- [ ] [**Issues**](src="./src/issues/issues.md)
+- [ ] [**Issues**](src="https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/issues/issues.md")
 - [ ] Job
 - [ ] Analyzes and perceptions about life
 ---
