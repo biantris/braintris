@@ -20,6 +20,7 @@ O objetivo desse repositório é mostrar em público minha jornada e aprendizado
 - [ ] Back-End
 - [ ] Front-End
 - [ ] Faculdade
-- [ ] Outros
+- [ ] [**Issues**](src="./src/issues/issues.md)
+- [ ] Job
 - [ ] Analyzes and perceptions about life
 ---
