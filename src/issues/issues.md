@@ -1,7 +1,10 @@
 <h1 align="center">
 Issues 🐛
 </h1>
+
+<p align="center">
 Aqui eu mostro todos os problemas que já passei e como resolvê-los:
+</p>
 
 -------
 
