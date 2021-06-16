@@ -2,7 +2,7 @@
 Faculdade 📚
 </h1>
 <p align="center">
-Aqui eu mostro tudo que aprendi/estou aprendendo na faculdade atualmente estou cursando Bict (Interdisciplinar em Ciência e Tecnologia) na UFMA:
+Aqui eu mostro tudo que aprendi/estou aprendendo na faculdade e conceitos fundamentais de cs. Atualmente estou cursando Bict (Interdisciplinar em Ciência e Tecnologia) na UFMA:
 </p>
 
 -------
