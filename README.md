@@ -20,7 +20,7 @@ O objetivo desse repositório é mostrar em público minha jornada e aprendizado
 
 ---
 ## To do
-- [ ] [**study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54)
+- [ ] [**Study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54)
 - [ ] Back-End
 - [ ] [**Front-End**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/front-end/front-end.md)
 - [ ] [**Faculdade**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/faculdade.md)
