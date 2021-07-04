@@ -27,4 +27,5 @@ O objetivo desse repositório é mostrar em público minha jornada e aprendizado
 - [ ] [**Issues**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/issues/issues.md)
 - [ ] [**Job**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/job/job.md)
 - [ ] [**Analyzes and perceptions about life**]()
+- [ ] [**Crypto**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/crypto/crypto.md)
 ---
