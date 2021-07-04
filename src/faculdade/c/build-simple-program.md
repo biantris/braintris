@@ -2,7 +2,7 @@
 Criando um simples programa em C
 </h1>
 
-*link utilizado para estudo* http://www.toves.org/books/cpy/
+<p align="center"> link utilizado para estudo http://www.toves.org/books/cpy/ </p>
 
 <h2>Compiladores vs Interpretadores</h2>
 
@@ -10,7 +10,7 @@ Criando um simples programa em C
 
 * Um **compilador** gera um arquivo contendo a tradução do programa para código nativo da máquina. O compilador não executa realmente o programa, você executa primeiro o compilador para criar um executável nativo e, em seguida, executa o arquivo gerado. Logo, depois da criação de um programa em C, sua execução é um processo de duas etapas:
 
-*Uma visão aprofundada sobre compiladores*
+<p align="center"> Uma visão aprofundada sobre compiladores </p>
 
 <p align="center">
     <img width="500" src="./assets/img/compiler.png" />
