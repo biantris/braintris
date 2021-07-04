@@ -8,5 +8,5 @@ Aqui eu mostro tudo que aprendi/estou aprendendo na faculdade e conceitos fundam
 -------
 
 - [**Criando gráfico de seno vs cosseno em Python**](https://beatrizoliveiraa.medium.com/criando-um-gr%C3%A1fico-de-seno-vs-cosseno-em-python-ee73fc2057a8)
-- [**C - Teory**]()
-- [**Python - Teory**]()
+- [**C**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/c/c.md)
+- [**Python**]()
