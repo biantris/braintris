@@ -15,5 +15,5 @@ Linguagem utilizada na disciplina de Laboratório de Programação - LP
 - [**Strings**]()
 - [**Structs (estruturas heterogêneas)**]()
 - [**Ponteiros e alocação dinâmica**]()
-- [**Exercícios**]()
+- [**Exercícios**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/c/exercises/exercises.md)
 - [**Bibioltecas externas e o processo de compilação**]()
