@@ -16,8 +16,7 @@ My fullstack journey (by Beatriz Oliveira)
 O objetivo desse repositório é mostrar em público minha jornada e aprendizados como desenvolvedora fullstack.
 </p>
 
-## wip 🛠️ 
-
+### wip 🛠️ 
 ---
 ## Topics 📌
 - [ ] [**Study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54) 
