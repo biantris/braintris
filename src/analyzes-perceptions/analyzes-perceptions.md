@@ -1,8 +1,16 @@
 <h1 align="center">
 Analyzes and Perceptions about life 🧠
 </h1>
+
 <p align="center">
-Um pouco das minhas reflexões e análises sobre questões da vida
+    <img width="500" src="./img/colores-formas.gif" />
+    <div class="tenor-gif-embed" data-postid="19697263" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/colores-formas-arte-movimiento-gif-19697263">Colores Formas GIF</a>from <a href="https://tenor.com/search/colores-gifs">Colores GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
+
+-------
+
+<p align="center">
+ ~ Um pouco das minhas reflexões e análises sobre questões da vida ~
 </p>
 
 -------
