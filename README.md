@@ -4,7 +4,7 @@ My fullstack journey (by Beatriz Oliveira)
 
 <p align="center">
     <img width="500" src="./img/banner.png" />
-</p>https://github.com/beatrizoliveiira/talk-he4rt-conf
+</p>
 
 <p align="center">
 <a href="https://twitter.com/intent/follow?screen_name=biantris_">
