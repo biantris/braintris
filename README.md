@@ -16,15 +16,17 @@ My fullstack journey (by Beatriz Oliveira)
 O objetivo desse repositório é mostrar em público minha jornada e aprendizados como desenvolvedora fullstack.
 </p>
 
-## wip 🛠️
+## wip 🛠️ 
 
 ---
-## To do
+## Topics
 - [ ] [**Study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54)
 - [ ] Back-End
 - [ ] [**Front-End**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/front-end/front-end.md)
 - [ ] [**Faculdade**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/faculdade.md)
 - [ ] [**Issues**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/issues/issues.md)
+- [ ] Design
+- [ ] Talks
 - [ ] [**Job**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/job/job.md)
 - [ ] [**Analyzes and perceptions about life**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/analyzes-perceptions/analyzes-perceptions.md)
 - [ ] [**Crypto**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/crypto/crypto.md)
