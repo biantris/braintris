@@ -7,9 +7,11 @@ My fullstack journey (by Beatriz Oliveira)
 </p>
 
 <p align="center">
-<a href="https://twitter.com/intent/follow?screen_name=biantris_">
-   <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
-    alt="follow on Twitter"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=biantris_">
+        <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantriz?style=social">
 </p>
 
 <p align="center">
