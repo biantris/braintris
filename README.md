@@ -23,7 +23,8 @@ O objetivo desse repositório é mostrar em público minha jornada e aprendizado
 ### wip 🛠️ 
 ---
 ## Topics 📌
-- [ ] [**Study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54) 
+- [ ] [**Study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54)
+- [ ] [**Life Hacks**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/life-hacks/life-hacks.md)
 - [ ] [**Front-End**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/front-end/front-end.md)
 - [ ] [**Faculdade**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/faculdade.md)
 - [ ] [**Issues**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/issues/issues.md)
