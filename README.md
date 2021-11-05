@@ -1,9 +1,9 @@
 <h1 align="center">
-My fullstack journey (by Beatriz Oliveira)
+My Fullstack Journey (by Beatriz Oliveira)
 </h1>
 
 <p align="center">
-    <img width="500" src="./img/banner.png" />
+    <img width="500" src="./img/img-readme.png" />
 </p>
 
 <p align="center">
