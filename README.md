@@ -17,7 +17,7 @@ My Fullstack Journey (by Beatriz Oliveira)
 </p>
 
 <p align="center">
-O objetivo desse repositório é mostrar em público minha jornada e aprendizados como desenvolvedora fullstack.
+The purpose of this repository is to publicly showcase my journey and learnings as a fullstack developer.
 </p>
 
 ### 🚧 wip 🚧
