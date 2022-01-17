@@ -23,16 +23,16 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 ### 🚧 wip 🚧
 ---
 ### Topics 📌
-- [**Study-base**](https://gist.github.com/beatrizoliveiira/698cf1e4c2a9a677e3c96bfd15f1fd54)
+- [**Study-base**](https://gist.github.com/biantris/698cf1e4c2a9a677e3c96bfd15f1fd54)
 - [**Math**]()
 - [**Books**]()
 - [**Web3**]()
-- [**Life Hacks**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/life-hacks/life-hacks.md)
-- [**Front-End**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/front-end/front-end.md)
-- [**College**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/faculdade.md)
-- [**Issues**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/issues/issues.md)
-- [**Talks**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/talks/talks.md)
-- [**Job**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/job/job.md)
-- [**Analyzes and perceptions about life**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/analyzes-perceptions/analyzes-perceptions.md)
-- [**Crypto**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/crypto/crypto.md)
+- [**Life Hacks**](https://github.com/biantris/my-fullstack-journey/blob/master/src/life-hacks/life-hacks.md)
+- [**Front-End**](https://github.com/biantris/my-fullstack-journey/blob/master/src/front-end/front-end.md)
+- [**College**](https://github.com/biantris/my-fullstack-journey/blob/master/src/faculdade/faculdade.md)
+- [**Issues**](https://github.com/biantris/my-fullstack-journey/blob/master/src/issues/issues.md)
+- [**Talks**](https://github.com/biantris/my-fullstack-journey/blob/master/src/talks/talks.md)
+- [**Job**](https://github.com/biantris/my-fullstack-journey/blob/master/src/job/job.md)
+- [**Analyzes and perceptions about life**](https://github.com/biantris/my-fullstack-journey/blob/master/src/analyzes-perceptions/analyzes-perceptions.md)
+- [**Crypto**](https://github.com/biantris/my-fullstack-journey/blob/master/src/crypto/crypto.md)
 ---
