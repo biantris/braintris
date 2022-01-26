@@ -36,3 +36,5 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 - [**Analyzes and perceptions about life**](https://github.com/biantris/my-fullstack-journey/blob/master/src/analyzes-perceptions/analyzes-perceptions.md)
 - [**Crypto**](https://github.com/biantris/my-fullstack-journey/blob/master/src/crypto/crypto.md)
 ---
+## Contributions
+Feel free to contribute to this project, if you find any bugs or improvements, open an issue and send a PR about it \o/
