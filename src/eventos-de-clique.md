@@ -4,6 +4,8 @@
 
 - Um dos eventos mais utilizados é o `onclick` , que é executado quando o usuário clica em um elemento.
 
+Ver mais: https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick
+
 - Sintaxe básica do `onclick`:
 
 ```
@@ -110,7 +112,9 @@ Primeiramente iremos adicionar a função `btn` onde será passada na tag html <
 
 Ao ocorrer o evento de clique será chamado o `addEventListener` que irá executar a função `ramdomBg` que irá retornar uma cor aleatória.
 
+Obs: O `addEventListener()` serve para esperar um evento que será acionado e assim chamar a função determinada
+
+ref https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener 
+    
 Resultado:
 ![Gravação-de-tela-de-03-04-2022-23_13_16](https://user-images.githubusercontent.com/65451957/161579581-734054f0-074e-4e36-a1df-980fac2e2c7e.gif)
-
-
