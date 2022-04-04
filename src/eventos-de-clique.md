@@ -118,6 +118,21 @@ ref https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListene
     
 Resultado:
 ![Gravação-de-tela-de-03-04-2022-23_13_16](https://user-images.githubusercontent.com/65451957/161579581-734054f0-074e-4e36-a1df-980fac2e2c7e.gif)
+    
+- Como debugar seus eventos com console.log:
+
+Às vezes, podemos querer saber mais informações sobre o evento, como qual elemento foi clicado. Nesse caso, precisamos passar um parâmetro de evento para nossa função.
+
+Este exemplo mostra como você pode obter o id do elemento:
+
+```js
+    btn.addEventListener('click', (e) =>{
+    document.body.style.background = randomBg();
+    console.log(e.target.id)
+});
+```
+Resultado é o id que passamos mais acima `btn`
+![image](https://user-images.githubusercontent.com/65451957/161584791-57e5ec7b-73bc-4baf-9c1a-79f230ae0f87.png)
 
 Veja mais sobre:
 - https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/
