@@ -89,7 +89,7 @@ button:active {
 }
 ```
 Resultado:
-<img width="500" src="./img/background.png" />
+![background](https://user-images.githubusercontent.com/65451957/161579487-15b86308-99f2-4891-81d9-953f5a505de8.png)
 
 Agora iremos adicionar o nosso evento onclick para mudar a cor do background da página:
 
@@ -111,5 +111,6 @@ Primeiramente iremos adicionar a função `btn` onde será passada na tag html <
 Ao ocorrer o evento de clique será chamado o `addEventListener` que irá executar a função `ramdomBg` que irá retornar uma cor aleatória.
 
 Resultado:
+![Gravação-de-tela-de-03-04-2022-23_13_16](https://user-images.githubusercontent.com/65451957/161579581-734054f0-074e-4e36-a1df-980fac2e2c7e.gif)
 
-<img width="500" src="./img/background-gif.webm" />
+
