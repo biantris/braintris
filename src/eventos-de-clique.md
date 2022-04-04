@@ -120,5 +120,5 @@ Resultado:
 ![Gravação-de-tela-de-03-04-2022-23_13_16](https://user-images.githubusercontent.com/65451957/161579581-734054f0-074e-4e36-a1df-980fac2e2c7e.gif)
 
 Veja mais sobre:
-    - https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/
-    - https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o
+- https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/
+- https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o
