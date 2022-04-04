@@ -137,3 +137,4 @@ Resultado é o id que passamos mais acima `btn`
 Veja mais sobre:
 - https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/
 - https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o
+- https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick
