@@ -1,6 +1,6 @@
 ## Eventos no JavaScript
 
-- Normalmente ao visitarmos páginas web executamos ações atráves de botões ,links ou elementos de ui. Como normalmente esses elementos clicáveis são manipulados através de eventos em JavaScript para podermos executar determinada funcionalidade.
+- Normalmente, ao visitarmos páginas web, executamos ações através de botões, links ou elementos de ui. Como esses elementos clicáveis são manipulados através de eventos em JavaScript para podermos executar determinada funcionalidade.
 
 - Um dos eventos mais utilizados é o `onclick` , que é executado quando o usuário clica em um elemento.
 
@@ -30,7 +30,7 @@ function() {
 
 [Background-changer](https://github.com/biantris/10-PROJECTS-1-HOUR/blob/master/background-changer/script.js)
 
-Basicamente esse projetinho tem como objetivo mudar a cor do background da página ao clicar no botão.
+Basicamente esse projeto tem como objetivo mudar a cor do background da página ao clicar no botão.
 
 Vamos ver cada parte do código e entender como funciona.
 
@@ -133,6 +133,15 @@ Este exemplo mostra como você pode obter o id do elemento:
 ```
 Resultado é o id que passamos mais acima `btn`
 ![image](https://user-images.githubusercontent.com/65451957/161584791-57e5ec7b-73bc-4baf-9c1a-79f230ae0f87.png)
+
+- Por que no React é onClick?
+
+Basicamente a diferença é que a nomeação de eventos em React são usando camelCase ao invés de letras minúsculas.
+
+```js
+onclick != onClick
+```
+Seja mais em: https://pt-br.reactjs.org/docs/handling-events.html
 
 Veja mais sobre:
 - https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/
