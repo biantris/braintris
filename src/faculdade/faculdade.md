@@ -11,3 +11,4 @@ Aqui eu mostro tudo que aprendi/estou aprendendo na faculdade e conceitos fundam
 - [**C**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/c/c.md)
 - [**Python**]()
 - [**Seminary-LibGD**](https://github.com/beatrizoliveiira/seminary-lib-gd)
+- [**USP Curriculum(computer science)**](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55041&codhab=0&tipo=N)
