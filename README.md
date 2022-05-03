@@ -36,9 +36,11 @@ My Fullstack Journey (by Beatriz Oliveira)
     </a>
 </p>
 
-<p align="center">
+<div align="center">
+bia knowledge base
+    
 The purpose of this repository is to publicly showcase my journey and learnings as a fullstack developer.
-</p>
+</div>
 
 <p align="center">
 🚧 wip 🚧
