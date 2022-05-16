@@ -8,12 +8,12 @@ Linguagem utilizada na disciplina de Laboratório de Programação - LP
 
 -------
 
-- [**Construindo um simples programa**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/c/build-simple-program.md)
+- [**Construindo um simples programa**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/college/c/build-simple-program.md)
 - [**Expressões e comandos**]()
 - [**Funções, prototypes, diretivas**]()
 - [**Ponteiros e arrays**]()
 - [**Strings**]()
 - [**Structs (estruturas heterogêneas)**]()
 - [**Ponteiros e alocação dinâmica**]()
-- [**Exercícios**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/faculdade/c/exercises/exercises.md)
+- [**Exercícios**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/college/c/exercises/exercises.md)
 - [**Bibioltecas externas e o processo de compilação**]()
