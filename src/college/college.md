@@ -2,7 +2,7 @@
 College 📚
 </h1>
 <p align="center">
-Here I show everything I learned/am learning in college and fundamental concepts of Computer Science. I am currently studying Bict (Interdisciplinary Bachelor in Science and Technology) at UFMA:
+Here I show everything I learned in college and fundamental concepts of Computer Science. I am currently studying Bict (Interdisciplinary Bachelor in Science and Technology) at UFMA:
 </p>
 
 -------
