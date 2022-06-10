@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-My Fullstack Journey (by Beatriz Oliveira)
+🧠 braintris
 </h1>
 
 <p align="center">
