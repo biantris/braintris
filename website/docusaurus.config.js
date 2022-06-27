@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bia knowledge base 🧠',
+  title: 'braintris 🧠',
   tagline: `Here that contain everything I've created and studied`,
   url: 'https://biantris.dev', //wip
   baseUrl: '/',
@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'biantris', // Usually your GitHub org/user name.
-  projectName: 'my-fullstack-journey', // Usually your repo name.
+  projectName: 'braintris', // Usually your repo name.
 
   presets: [
     [
@@ -58,7 +58,7 @@ const config = {
           {to: '/blog', label: 'Links', position: 'left'},
           {to: '/blog', label: 'About', position: 'left'},
           {
-            href: 'https://github.com/biantris/my-fullstack-journey',
+            href: 'https://github.com/biantris/braintris',
             label: 'GitHub',
             position: 'right',
           },
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/biantris/my-fullstack-journey',
+                href: 'https://github.com/biantris/braintris',
               },
             ],
           },
