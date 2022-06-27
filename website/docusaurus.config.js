@@ -43,10 +43,10 @@ const config = {
     ({
       navbar: {
         title: 'Home',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: '',
+        //   src: '',
+        // },
         items: [
           {
             type: 'doc',
@@ -107,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Biantris, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} biantris, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
