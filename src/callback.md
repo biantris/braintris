@@ -1,5 +1,5 @@
 ### Callback
-A function that is passed to another function as an argument to another function, that is called within an externaç function to complete some kind of routine or action.
+A function that is passed to another function as an argument to another function, which is called within an external function to complete some kind of routine or action.
 
 ex.: https://replit.com/@beatrizoliveiir/ex-callback-ts
 ```tsx
