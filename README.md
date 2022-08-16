@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-    <img width="500" src="./img/img-readme.png" />
+    <img width="500" src="./static/img/img-readme.png" />
 
 &#xa0;
 
@@ -50,18 +50,7 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 
 ### Topics 
 
-- [**Study-base**](https://gist.github.com/biantris/698cf1e4c2a9a677e3c96bfd15f1fd54)
-- [**Math**]()
-- [**Books**]()
-- [**Web3**]()
-- [**Life Hacks**](https://github.com/biantris/braintris/blob/main/src/life-hacks/life-hacks.md)
-- [**Front-End**](https://github.com/biantris/braintris/blob/main/src/front-end/front-end.md)
-- [**College**](https://github.com/biantris/braintris/blob/main/src/college/college.md)
-- [**Issues**](https://github.com/biantris/braintris/blob/main/src/issues/issues.md)
-- [**Talks**](https://github.com/biantris/braintris/blob/main/src/talks/talks.md)
-- [**Job**](https://github.com/biantris/braintris/blob/main/src/job/job.md)
-- [**Analyzes and perceptions about life**](https://github.com/biantris/braintris/blob/main/src/analyzes-perceptions/analyzes-perceptions.md)
-- [**Crypto**](https://github.com/biantris/braintris/blob/main/src/crypto/crypto.md)
+[wip]
 
 ---
 
