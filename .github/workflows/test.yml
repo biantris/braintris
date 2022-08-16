@@ -19,4 +19,5 @@ jobs:
         with:
           node-version: "14"
       - run: yarn
-      - run: yarn jest
+      - run: yarn build
+      - run: yarn start
