@@ -7,8 +7,8 @@ Here I show everything I learned in college and fundamental concepts of Computer
 
 -------
 
-- [**Criando gráfico de seno vs cosseno em Python**](https://beatrizoliveiraa.medium.com/criando-um-gr%C3%A1fico-de-seno-vs-cosseno-em-python-ee73fc2057a8)
+<!-- - [**Criando gráfico de seno vs cosseno em Python**](https://beatrizoliveiraa.medium.com/criando-um-gr%C3%A1fico-de-seno-vs-cosseno-em-python-ee73fc2057a8)
 - [**C**](https://github.com/beatrizoliveiira/my-fullstack-journey/blob/master/src/college/c/c.md)
 - [**Python**]()
 - [**Seminary-LibGD**](https://github.com/beatrizoliveiira/seminary-lib-gd)
-- [**USP Curriculum(computer science)**](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55041&codhab=0&tipo=N)
+- [**USP Curriculum(computer science)**](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55041&codhab=0&tipo=N) -->

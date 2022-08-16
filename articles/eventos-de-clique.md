@@ -109,7 +109,7 @@ function randomBg() {
 }
 ```
 
-Primeiramente iremos adicionar a função `btn` onde será passada na tag html <button> e irá chamar o id `btn` que será o nosso botão.
+Primeiramente iremos adicionar a função `btn` onde será passada na tag html `<button>` e irá chamar o id `btn` que será o nosso botão.
 
 Ao ocorrer o evento de clique será chamado o `addEventListener` que irá executar a função `ramdomBg` que irá retornar uma cor aleatória.
 

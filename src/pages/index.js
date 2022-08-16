@@ -7,7 +7,7 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import Translate from "@docusaurus/Translate";
 import styles from "./index.module.css";
 
-function Home() {
+const Home = () => {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
