@@ -15,6 +15,7 @@ function Home() {
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">
+            <div>🧠</div>
             <div className={styles.hiddenText} aria-hidden="true">
               braintris
             </div>
