@@ -26,7 +26,7 @@ const config = {
           // Please change this to your repo.
           //editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
+        articles: {
           showReadingTime: true,
           // Please change this to your repo.
           //editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
@@ -54,9 +54,8 @@ const config = {
             position: 'left',
             label: 'Contents',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/blog', label: 'Links', position: 'left'},
-          {to: '/blog', label: 'About', position: 'left'},
+          {to: '/articles', label: 'Articles', position: 'left'},
+          {to: '/articles', label: 'About', position: 'left'},
           {
             href: 'https://github.com/biantris/braintris',
             label: 'GitHub',
@@ -97,13 +96,21 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Articles',
+                to: '/articles',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/biantris/braintris',
               },
+              {
+                label: 'Dev.to',
+                href: 'https://dev.to/beatrizoliveira',
+              },
+              {
+                label: 'Medium',
+                href: 'https://beatrizoliveiraa.medium.com/',
+              }
             ],
           },
         ],
