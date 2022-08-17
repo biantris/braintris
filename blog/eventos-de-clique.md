@@ -1,5 +1,10 @@
-### Veja no Dev.to https://dev.to/beatrizoliveira/evento-de-click-no-javascript-18hg
-## Eventos no JavaScript
+# Eventos no JavaScript
+
+:::tip
+
+Veja também no Dev.to https://dev.to/beatrizoliveira/evento-de-click-no-javascript-18hg
+
+:::
 
 - Normalmente, ao visitarmos páginas web, executamos ações através de botões, links ou elementos de ui. Como esses elementos clicáveis são manipulados através de eventos em JavaScript para podermos executar determinada funcionalidade.
 
