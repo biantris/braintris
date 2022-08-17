@@ -31,7 +31,7 @@ const Home = () => {
                 "hero__button button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              to={useBaseUrl("docs/introduction/getting-started")}
+              to={useBaseUrl("docs/intro")}
             >
               <Translate id="homePage.head.start">Get Started</Translate>
             </Link>

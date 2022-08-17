@@ -46,8 +46,8 @@ const config = {
           position: "left",
           label: "Contents",
         },
-        { to: "/articles", label: "Articles", position: "left" },
-        { to: "/about", label: "About", position: "left" },
+        { to: "/blog", label: "Articles", position: "left" },
+        { to: "/docs/about", label: "About", position: "left" },
         {
           href: "https://github.com/biantris/braintris",
           label: "GitHub",
@@ -89,7 +89,7 @@ const config = {
           items: [
             {
               label: "Articles",
-              to: "/articles",
+              to: "/blog",
             },
             {
               label: "GitHub",
