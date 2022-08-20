@@ -3,7 +3,6 @@
 
 &#xa0;
 
-<!-- <a href="https://myfullstackjourney.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">
@@ -45,6 +44,9 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 <p align="center">
 🚧 wip 🚧
 </p>
+
+<!-- <a href="https://myfullstackjourney.netlify.app">Demo</a> -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b636154c-2d1b-48e2-b12f-b0f4555f6ad4/deploy-status)](https://app.netlify.com/sites/braintris/deploys)
 
 ---
 
