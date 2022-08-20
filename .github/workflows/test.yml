@@ -1,4 +1,4 @@
-name: Tests
+name: Tests | Build
 
 on:
   push:
@@ -20,4 +20,3 @@ jobs:
           node-version: "16"
       - run: yarn
       - run: yarn build
-      - run: yarn start
