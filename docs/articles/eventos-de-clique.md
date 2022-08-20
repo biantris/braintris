@@ -1,11 +1,5 @@
 # Eventos no JavaScript
 
-:::note
-
-Veja também no Dev.to https://dev.to/beatrizoliveira/evento-de-click-no-javascript-18hg
-
-:::
-
 Normalmente, ao visitarmos páginas web, executamos ações através de botões, links ou elementos de ui. Como esses elementos clicáveis são manipulados através de eventos em JavaScript para podermos executar determinada funcionalidade.
 
 Um dos eventos mais utilizados é o `onclick` , que é executado quando o usuário clica em um elemento.
@@ -138,7 +132,10 @@ Este exemplo mostra como você pode obter o id do elemento:
 });
 ```
 Resultado é o id que passamos mais acima `btn`
-![image](https://user-images.githubusercontent.com/65451957/161584791-57e5ec7b-73bc-4baf-9c1a-79f230ae0f87.png)
+
+<div align="center" id="top"> 
+    <img width="500" src="https://user-images.githubusercontent.com/65451957/161584791-57e5ec7b-73bc-4baf-9c1a-79f230ae0f87.png" />
+</div>
 
 ### Por que no React é onClick?
 
@@ -153,3 +150,9 @@ Seja mais em: https://pt-br.reactjs.org/docs/handling-events.html
 - [The addEventListener() Method – JavaScript Event Listener Example Code](https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/)
 - [Como usar o evento onclick em JavaScript](https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o)
 - [GlobalEventHandlers.onclick](https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick)
+
+:::note
+
+Veja também no Dev.to https://dev.to/beatrizoliveira/evento-de-click-no-javascript-18hg
+
+:::
