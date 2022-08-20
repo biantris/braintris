@@ -1,16 +1,32 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
-const config = {
-  title: "braintris 🧠",
+const locales = ["pt-BR", "en"];
+
+const localeConfigs = {
+  en: {
+    label: "English",
+  },
+  "pt-BR": {
+    label: "Português",
+  },
+};
+
+module.exports = {
+  i18n: {
+    defaultLocale: "pt-BR",
+    locales,
+    localeConfigs,
+  },
+  title: "braintris",
   tagline: `Here that contain everything I've created and studied`,
   url: "https://biantris.dev", //wip
   baseUrl: "/",
-  onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "biantris",
   projectName: "braintris",
+  onBrokenLinks: 'log',
 
   presets: [
     [
@@ -19,17 +35,22 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
         },
-        blog: {
-          showReadingTime: true,
-        },
+        // blog: {
+        //   showReadingTime: true,
+        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleAnalytics: {
-          trackingID: 'UA-141789564-1',
+          trackingID: "UA-141789564-1",
         },
       },
     ],
+  ],
+
+  plugins: [
+    require.resolve("./sitePlugin"),
+    require.resolve("@cmfcmf/docusaurus-search-local", { language: "pt-BR" }),
   ],
 
   themeConfig: {
@@ -46,12 +67,16 @@ const config = {
           position: "left",
           label: "Contents",
         },
-        { to: "/blog", label: "Articles", position: "left" },
-        { to: "/docs/about", label: "About", position: "left" },
+        { to: "docs/blog", label: "Articles", position: "left" },
+        { to: "docs/about", label: "About", position: "left" },
         {
           href: "https://github.com/biantris/braintris",
           label: "GitHub",
           position: "right",
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
         },
       ],
     },
@@ -114,5 +139,3 @@ const config = {
     },
   },
 };
-
-module.exports = config;
