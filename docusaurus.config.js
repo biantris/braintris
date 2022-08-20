@@ -67,7 +67,7 @@ module.exports = {
           position: "left",
           label: "Contents",
         },
-        { to: "docs/articles", label: "Articles", position: "left" },
+        { to: "docs/category/articles", label: "Articles", position: "left" },
         { to: "docs/about", label: "About", position: "left" },
         {
           href: "https://github.com/biantris/braintris",

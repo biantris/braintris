@@ -1,0 +1,9 @@
+{
+    "label": "Articles",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Published articles on various subjects"
+    }
+  }
+  
