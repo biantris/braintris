@@ -23,7 +23,7 @@ module.exports = {
   url: "https://biantris.dev", //wip
   baseUrl: "/",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/icons/favicon.ico",
   organizationName: "biantris",
   projectName: "braintris",
   onBrokenLinks: 'log',
