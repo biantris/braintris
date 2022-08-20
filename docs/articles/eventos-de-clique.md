@@ -12,13 +12,13 @@ Veja também no Dev.to https://dev.to/beatrizoliveira/evento-de-click-no-javascr
 
 Ver mais: https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick
 
-- Sintaxe básica do `onclick`:
+### Sintaxe básica do `onclick`:
 
-```
+```js
 <element onclick="function()">Clique here</element>
 ```
 
-```
+```js
 <button onclick="function()">Clique here</button>
 ```
 
@@ -26,15 +26,15 @@ Note que o atributo `onclick` é puramente JavaScript. O valor que ele recebe é
 
 Em JavaScript declaramos uma função chamando-a pelo nome e em seguida adicionamos parênteses após o identificador da função(o nome da mesma).
 
-```
+```js
 function() {
     // código
 }
 ```
 
-- Exemplo de evento onclick:
+### Exemplo de evento onclick:
 
-[Background-changer](https://github.com/biantris/10-PROJECTS-1-HOUR/blob/master/background-changer/script.js)
+-> [Background-changer](https://github.com/biantris/10-PROJECTS-1-HOUR/blob/master/background-changer/script.js)
 
 Basicamente esse projeto tem como objetivo mudar a cor do background da página ao clicar no botão.
 
@@ -125,7 +125,7 @@ ref https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListene
 Resultado:
 ![Gravação-de-tela-de-03-04-2022-23_13_16](https://user-images.githubusercontent.com/65451957/161579581-734054f0-074e-4e36-a1df-980fac2e2c7e.gif)
     
-- Como debugar seus eventos com console.log:
+### Como debugar seus eventos com console.log:
 
 Às vezes, podemos querer saber mais informações sobre o evento, como qual elemento foi clicado. Nesse caso, precisamos passar um parâmetro de evento para nossa função.
 
@@ -140,7 +140,7 @@ Este exemplo mostra como você pode obter o id do elemento:
 Resultado é o id que passamos mais acima `btn`
 ![image](https://user-images.githubusercontent.com/65451957/161584791-57e5ec7b-73bc-4baf-9c1a-79f230ae0f87.png)
 
-- Por que no React é onClick?
+### Por que no React é onClick?
 
 Basicamente a diferença é que a nomeação de eventos em React são usando camelCase ao invés de letras minúsculas.
 
@@ -149,7 +149,7 @@ onclick != onClick
 ```
 Seja mais em: https://pt-br.reactjs.org/docs/handling-events.html
 
-Veja mais sobre:
+### Veja mais sobre:
 - https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/
 - https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o
 - https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick

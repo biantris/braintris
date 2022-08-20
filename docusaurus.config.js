@@ -63,11 +63,11 @@ module.exports = {
       items: [
         {
           type: "doc",
-          docId: "intro",
+          docId: "about",
           position: "left",
           label: "Contents",
         },
-        { to: "docs/blog", label: "Articles", position: "left" },
+        { to: "docs/articles", label: "Articles", position: "left" },
         { to: "docs/about", label: "About", position: "left" },
         {
           href: "https://github.com/biantris/braintris",
@@ -88,7 +88,7 @@ module.exports = {
           items: [
             {
               label: "Intro",
-              to: "/docs/intro",
+              to: "/docs/about",
             },
           ],
         },
@@ -98,6 +98,10 @@ module.exports = {
             {
               label: "Twitter",
               href: "https://twitter.com/biantris_",
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/biantris/braintris",
             },
             {
               label: "LinkedIn",
@@ -115,10 +119,6 @@ module.exports = {
             {
               label: "Articles",
               to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/biantris/braintris",
             },
             {
               label: "Dev.to",
