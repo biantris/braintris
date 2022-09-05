@@ -48,13 +48,21 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 <!-- <a href="https://myfullstackjourney.netlify.app">Demo</a> -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b636154c-2d1b-48e2-b12f-b0f4555f6ad4/deploy-status)](https://app.netlify.com/sites/braintris/deploys)
 
----
-
 ### Topics 
 
 [wip]
 
----
+### Getting Started
+- clone this repo
+```sh
+> yarn
+#or
+> yarn install
+
+> yarn dev
+
+Open in: http://localhost:3000
+```
 
 ## Contributions
 
