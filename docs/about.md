@@ -31,7 +31,7 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
     </summary>
     <b>Link</b>: <a href="https://www.unitok.com/" target="_blank">https://www.unitok.com</a>
     <br/>
-    <b>Time</b>: jun de 2022 - ago de 2022 · 3 meses
+    <b>Time</b>: jun 2022 - aug 2022 - 3 months
     <br/>
     <b>Description</b>: Develop new features, maintain the development standard, and provide ideas for new solutions, as well as work alongside the UI design team for screen creations.
     <br/>
@@ -44,7 +44,7 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
     </summary>
     <b>Link</b>: <a href="https://entria.com.br/" target="_blank">https://entria.com.br</a>
     <br/>
-    <b>Time</b>: mar de 2021 - abr de 2022 · 1 ano 2 meses
+    <b>Time</b>: mar 2021 - apr 2022 - 1 year 2 months
     <br/>
     <b>Description</b>: Experience in developing several products in parallel such as Feedback House and Openpix, autonomy in discussing the best means through customer demand and pain, and developing in an agile environment with innovative stacks.
     <br/>
@@ -55,7 +55,7 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
     </summary> 
     <b>Link</b>: <a href="https://openpix.com.br/" target="_blank">https://openpix.com.br</a>
     <br/>
-    <b>Time</b>: mar de 2021 - abr de 2022 · 1 ano 2 meses
+    <b>Time</b>: mar 2021 - apr 2022 - 1 year 2 months
     <br/>
     <b>Description</b>: A lot of experience with managing payments and transactions through Pix, tracking new products and features from their initial phase (with the customer) to their final phase delivering value to the customer. 
     <br/>
@@ -68,7 +68,7 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
     </summary> 
     <b>Link</b>: <a href="https://feedback.house" target="_blank">https://feedback.house</a>
     <br/>
-    <b>Time</b>: mar de 2021 - abr de 2022 · 1 ano 2 meses
+    <b>Time</b>: mar 2021 - apr 2022 - 1 year 2 months
     <br/>
     <b>Description</b>: Experience with HR management creating a product that improves the feedback experience between the company and the employee, as well as employee tracking.
     <br/>
@@ -82,7 +82,7 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
     </summary>
     <b>Link</b>: none
     <br/>
-    <b>Time</b>: out de 2020 - mar de 2021 · 6 meses
+    <b>Time</b>: oct 2020 - mar 2021 - 6 months
     <br/>
     <b>Description</b>: Development of mobile and web applications through solutions in the area of Digital Transformation. Using mainly Angular and Angular Material on the front-end and Firebase on the back-end.
     <br/>
