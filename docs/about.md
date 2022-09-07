@@ -9,7 +9,9 @@ sidebar_position: 1
     <p>me :]</p>
 </p>
 
-Hi, my name is Beatriz Oliveira [biantris](https://twitter.com/biantris_), I am Software Engineer, I like and practice a lot the idea with [Learn in Public](https://www.swyx.io/learn-in-public/) in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
+Hi, my name is Beatriz Oliveira [biantris](https://twitter.com/biantris_). I'm Software Engineer. I like 
+and practice a lot the idea with [Learn in Public](https://www.swyx.io/learn-in-public/) in sharing my 
+knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
 I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `NextJS` and the related ecosystem. I also have experience developing `REST APIs` in the `NodeJS` ecosystem, with databases like `MongoDB` and `GraphQL` data query language using its `Relay` framework, focusing on products aligned with user needs.
 
