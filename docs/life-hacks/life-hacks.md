@@ -1,4 +1,4 @@
-# Life Hacks 🛠️ 
+# Life Hacks
 
 <p align="center">
     Life Hacks tanto pessoal como profissional para aumentar a produtividade

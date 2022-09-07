@@ -1,4 +1,4 @@
-# Analyzes and Perceptions about life 🧠
+# APAL
 
 <p align="center">
     <img width="500" src="../../img/colores-formas.gif" />
