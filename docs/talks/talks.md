@@ -1,4 +1,4 @@
-# Talks 🗣️
+# Talks
 
 <p align="center">
     Palestras/Talks já apresentadas
