@@ -1,9 +1,10 @@
-<div align="center" id="top"> 
+<!--- <div align="center" id="top"> 
     <img width="500" src="./static/img/img-readme.png" />
 
 &#xa0;
 
 </div>
+-->
 
 <h1 align="center">
 🧠 braintris
