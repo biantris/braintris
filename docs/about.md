@@ -5,7 +5,7 @@ sidebar_position: 1
 # About
 
 <p align="center">
-    <img width="150" src="../../img/me.png" />
+    <img width="150" src="https://raw.githubusercontent.com/biantris/braintris/main/static/img/me.png" />
     <p>me :]</p>
 </p>
 
