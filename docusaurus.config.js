@@ -20,7 +20,7 @@ module.exports = {
   },
   title: "braintris",
   tagline: `Here that contain everything I've created and studied`,
-  url: "https://braintris.github.io", //wip
+  url: "https://braintris.github.io/", //wip
   baseUrl: "/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/icons/favicon.ico",
