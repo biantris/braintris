@@ -67,8 +67,6 @@ module.exports = {
           position: "left",
           label: "Contents",
         },
-        { to: "docs/category/articles", label: "Articles", position: "left" },
-        { to: "docs/about", label: "About", position: "left" },
         {
           href: "https://github.com/biantris/braintris",
           label: "GitHub",
@@ -88,7 +86,7 @@ module.exports = {
           items: [
             {
               label: "Intro",
-              to: "/docs/about",
+              to: "/docs/about/",
             },
           ],
         },
@@ -116,10 +114,6 @@ module.exports = {
         {
           title: "More",
           items: [
-            {
-              label: "Articles",
-              to: "/blog",
-            },
             {
               label: "Dev.to",
               href: "https://dev.to/beatrizoliveira",

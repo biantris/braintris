@@ -20,5 +20,5 @@ sayHello(greeting);
 The example above is of a **synchronous callback**, since it is executed immediately. 
 
 <div align="center" id="top"> 
-    <img width="500" src="../../img/callback.png" />
+    <img width="500" src="../../static/img/callback.png" />
 </div>
