@@ -21,7 +21,7 @@ module.exports = {
   title: "braintris",
   tagline: `Here that contain everything I've created and studied`,
   url: "https://braintris.github.io", //wip
-  baseUrl: "/braintris",
+  baseUrl: "/braintris/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/icons/favicon.ico",
   organizationName: "biantris",
