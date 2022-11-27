@@ -43,11 +43,8 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 </div>
 
 <p align="center">
-🚧 wip 🚧
+🚧 this is a wip forever 🚧
 </p>
-
-<!-- <a href="https://myfullstackjourney.netlify.app">Demo</a> -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b636154c-2d1b-48e2-b12f-b0f4555f6ad4/deploy-status)](https://app.netlify.com/sites/braintris/deploys)
 
 ### Topics 
 
