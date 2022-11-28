@@ -39,57 +39,59 @@ Começando com o nosso código html:
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>🎨Background Changer🎨</title>
     <link rel="stylesheet" href="style.css" />
     <script src="script.js" defer></script>
-</head>
-<body>
+  </head>
+  <body>
     <button id="btn">🌈Change Me🌈</button>
-</body>
+  </body>
 </html>
 ```
 
 Depois estilização:
+
 ```css
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: "Poppins", sans-serif;
-    margin: 0;
-    min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  min-height: 100vh;
 }
 
 button {
-    background-color: rebeccapurple;
-    color: white;
-    padding: 1rem;
-    font-family: inherit;
-    font-size: 1.2rem;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
-    border: none;
-    transition: transform 0.1s linear;
+  background-color: rebeccapurple;
+  color: white;
+  padding: 1rem;
+  font-family: inherit;
+  font-size: 1.2rem;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  border: none;
+  transition: transform 0.1s linear;
 }
 
 button:focus {
-    outline: none;
+  outline: none;
 }
 
 button:active {
-    box-shadow: 0;
-    transform: translate(2px, 2px);
+  box-shadow: 0;
+  transform: translate(2px, 2px);
 }
 ```
+
 Resultado:
 ![background](https://user-images.githubusercontent.com/65451957/161579487-15b86308-99f2-4891-81d9-953f5a505de8.png)
 
@@ -98,13 +100,12 @@ Agora iremos adicionar o nosso evento onclick para mudar a cor do background da 
 ```js
 const btn = document.getElementById('btn');
 
-btn.addEventListener('click', () =>{
-    document.body.style.background = randomBg();
+btn.addEventListener('click', () => {
+  document.body.style.background = randomBg();
 });
 
 function randomBg() {
-    return `hsl(${Math.floor(Math.random()
-        * 360)}, 100%, 50%)`;
+  return `hsl(${Math.floor(Math.random() * 360)}, 100%, 50%)`;
 }
 ```
 
@@ -114,11 +115,11 @@ Ao ocorrer o evento de clique será chamado o `addEventListener` que irá execut
 
 Obs: O `addEventListener()` serve para esperar um evento que será acionado e assim chamar a função determinada
 
-ref https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener 
-    
+ref https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener
+
 Resultado:
 ![Gravação-de-tela-de-03-04-2022-23_13_16](https://user-images.githubusercontent.com/65451957/161579581-734054f0-074e-4e36-a1df-980fac2e2c7e.gif)
-    
+
 ### Como debugar seus eventos com console.log:
 
 Às vezes, podemos querer saber mais informações sobre o evento, como qual elemento foi clicado. Nesse caso, precisamos passar um parâmetro de evento para nossa função.
@@ -126,11 +127,12 @@ Resultado:
 Este exemplo mostra como você pode obter o id do elemento:
 
 ```js
-    btn.addEventListener('click', (e) =>{
-    document.body.style.background = randomBg();
-    console.log(e.target.id)
+btn.addEventListener('click', (e) => {
+  document.body.style.background = randomBg();
+  console.log(e.target.id);
 });
 ```
+
 Resultado é o id que passamos mais acima `btn`
 
 <div align="center" id="top"> 
@@ -142,11 +144,13 @@ Resultado é o id que passamos mais acima `btn`
 Basicamente a diferença é que a nomeação de eventos em React são usando camelCase ao invés de letras minúsculas.
 
 ```js
-onclick != onClick
+onclick != onClick;
 ```
+
 Seja mais em: https://pt-br.reactjs.org/docs/handling-events.html
 
 ### Veja mais sobre:
+
 - [The addEventListener() Method – JavaScript Event Listener Example Code](https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/)
 - [Como usar o evento onclick em JavaScript](https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o)
 - [GlobalEventHandlers.onclick](https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick)
