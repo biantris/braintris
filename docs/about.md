@@ -25,6 +25,21 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
 - [dev.to](https://dev.to/beatrizoliveira)
 - [Medium](https://medium.com/@beatrizoliveiraa)
 
+### Currently
+
+<details open>
+    <summary>
+        <b>Full Stack Developer I - askLisa</b>
+    </summary>
+    <b>Link</b>: <a href="https://www.asklisa.com.br/" target="_blank">https://www.asklisa.com.br</a>
+    <br/>
+    <b>Time</b>: set de 2022 - the moment - 3 months
+    <br/>
+    <b>Description</b>: Full stack development for B2B SaaS applications with a focus on customers, application analysis, and performance as well as maintaining quality code with scalability.
+    <br/>
+    <b>Competencies</b>: Next.js · React.js · Go Lang · MongoDB · Redis · Terraform · Amazon Web Services · TypeScript
+</details>
+
 ### Previously
 
 <details open>
