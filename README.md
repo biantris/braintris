@@ -1,4 +1,4 @@
-<!--- <div align="center" id="top"> 
+<!--- <div align="center" id="top">
     <img width="500" src="./static/img/img-readme.png" />
 
 &#xa0;
@@ -50,12 +50,14 @@ The purpose of this repository is to publicly showcase my journey and learnings 
   <img alt="Deploy ok" src="https://github.com/biantris/braintris/actions/workflows/pages/pages-build-deployment/badge.svg" />
 </a>
 
-### Topics 
+### Topics
 
 [wip]
 
 ### Getting Started
+
 - clone this repo
+
 ```sh
 > yarn
 #or

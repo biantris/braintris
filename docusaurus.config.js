@@ -1,76 +1,76 @@
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const locales = ["pt-BR", "en"];
+const locales = ['pt-BR', 'en'];
 
 const localeConfigs = {
   en: {
-    label: "English",
+    label: 'English',
   },
-  "pt-BR": {
-    label: "Português",
+  'pt-BR': {
+    label: 'Português',
   },
 };
 
 module.exports = {
   i18n: {
-    defaultLocale: "pt-BR",
+    defaultLocale: 'pt-BR',
     locales,
     localeConfigs,
   },
-  title: "braintris",
+  title: 'braintris',
   tagline: `Here that contain everything I've created and studied`,
-  url: "https://braintris.github.io", //wip
-  baseUrl: "/braintris/",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/icons/favicon.ico",
-  organizationName: "biantris",
-  projectName: "braintris",
+  url: 'https://braintris.github.io', //wip
+  baseUrl: '/braintris/',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/icons/favicon.ico',
+  organizationName: 'biantris',
+  projectName: 'braintris',
   onBrokenLinks: 'log',
 
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         // blog: {
         //   showReadingTime: true,
         // },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
         googleAnalytics: {
-          trackingID: "UA-141789564-1",
+          trackingID: 'UA-141789564-1',
         },
       },
     ],
   ],
 
   plugins: [
-    require.resolve("./sitePlugin"),
-    require.resolve("@cmfcmf/docusaurus-search-local", { language: "pt-BR" }),
+    require.resolve('./sitePlugin'),
+    require.resolve('@cmfcmf/docusaurus-search-local', { language: 'pt-BR' }),
   ],
 
   themeConfig: {
     navbar: {
-      title: "Home",
+      title: 'Home',
       // logo: {
       //   alt: '',
       //   src: '',
       // },
       items: [
         {
-          type: "doc",
-          docId: "about",
-          position: "left",
-          label: "Contents",
+          type: 'doc',
+          docId: 'about',
+          position: 'left',
+          label: 'Contents',
         },
         {
-          href: "https://github.com/biantris/braintris",
-          label: "GitHub",
-          position: "right",
+          href: 'https://github.com/biantris/braintris',
+          label: 'GitHub',
+          position: 'right',
         },
         {
           type: 'localeDropdown',
@@ -79,31 +79,31 @@ module.exports = {
       ],
     },
     footer: {
-      style: "dark",
+      style: 'dark',
       links: [
         {
-          title: "Content",
+          title: 'Content',
           items: [
             {
-              label: "Intro",
-              to: "/docs/about/",
+              label: 'Intro',
+              to: '/docs/about/',
             },
           ],
         },
         {
-          title: "Community",
+          title: 'Community',
           items: [
             {
-              label: "Twitter",
-              href: "https://twitter.com/biantris_",
+              label: 'Twitter',
+              href: 'https://twitter.com/biantris_',
             },
             {
-              label: "GitHub",
-              href: "https://github.com/biantris/braintris",
+              label: 'GitHub',
+              href: 'https://github.com/biantris/braintris',
             },
             {
-              label: "LinkedIn",
-              href: "https://www.linkedin.com/in/beatriiz-oliveiraa/",
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/beatriiz-oliveiraa/',
             },
             // {
             //   label: 'Discord',
@@ -112,15 +112,15 @@ module.exports = {
           ],
         },
         {
-          title: "More",
+          title: 'More',
           items: [
             {
-              label: "Dev.to",
-              href: "https://dev.to/beatrizoliveira",
+              label: 'Dev.to',
+              href: 'https://dev.to/beatrizoliveira',
             },
             {
-              label: "Medium",
-              href: "https://beatrizoliveiraa.medium.com/",
+              label: 'Medium',
+              href: 'https://beatrizoliveiraa.medium.com/',
             },
           ],
         },

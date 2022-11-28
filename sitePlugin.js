@@ -16,7 +16,7 @@ module.exports = function (context, options) {
             http: require.resolve('stream-http'),
             https: require.resolve('https-browserify'),
             os: require.resolve('os-browserify/browser'),
-            "tty": require.resolve("tty-browserify")
+            tty: require.resolve('tty-browserify'),
           },
         },
         plugins: [

@@ -1,9 +1,8 @@
 {
-    "label": "Javascript",
-    "position": 2,
-    "link": {
-      "type": "generated-index",
-      "description": "Content about Javascript"
-    }
+  "label": "Javascript",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Content about Javascript"
   }
-  
+}
