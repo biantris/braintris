@@ -50,10 +50,6 @@ The purpose of this repository is to publicly showcase my journey and learnings 
   <img alt="Deploy ok" src="https://github.com/biantris/braintris/actions/workflows/pages/pages-build-deployment/badge.svg" />
 </a>
 
-### Topics
-
-[wip]
-
 ### Getting Started
 
 - clone this repo
