@@ -46,9 +46,7 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 🚧 this is a wip forever 🚧
 </p>
 
-<a href="https://github.com/biantris/graphql-relay-web/actions">
-  <img alt="Deploy ok" src="https://github.com/biantris/braintris/actions/workflows/pages/pages-build-deployment/badge.svg" />
-</a>
+[![documentation](https://github.com/biantris/braintris/actions/workflows/deploy.yml/badge.svg)](https://github.com/biantris/braintris/actions/workflows/deploy.yml)
 
 ### Getting Started
 
