@@ -68,6 +68,11 @@ module.exports = {
           label: 'Contents',
         },
         {
+          to: '/docs/tags/',
+          position: 'right',
+          label: 'Tags',
+        },
+        {
           href: 'https://github.com/biantris/braintris',
           label: 'GitHub',
           position: 'right',
@@ -86,7 +91,7 @@ module.exports = {
           items: [
             {
               label: 'Intro',
-              to: '/docs/about/',
+              to: '/docs/about',
             },
           ],
         },

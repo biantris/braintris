@@ -1,15 +1,18 @@
 ---
 sidebar_position: 1
+id: about
+title: About
+tags:
+  - about
+  - myself
 ---
 
-# About
-
 <p align="center">
-    <img width="150" src="https://raw.githubusercontent.com/biantris/braintris/main/static/img/me.png" />
+    <img width="150" src="../img/me.png" />
     <p>me :]</p>
 </p>
 
-Hi, my name is Beatriz Oliveira [biantris](https://twitter.com/biantris_). I'm Software Engineer. I like
+Hi, my name is Beatriz Oliveira a.k.a [biantris](https://twitter.com/biantris_). I'm Software Engineer. I like
 and practice a lot the idea with [Learn in Public](https://www.swyx.io/learn-in-public/) in sharing my
 knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
