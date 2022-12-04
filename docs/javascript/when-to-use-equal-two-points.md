@@ -1,4 +1,11 @@
-# When to use = or :
+---
+id: operators javascript
+title: When to use '=' or ':'
+tags:
+  - operators javascript
+  - javascript
+  - content
+---
 
 ### When to use and how to apply
 

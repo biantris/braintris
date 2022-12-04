@@ -1,4 +1,10 @@
-# Life Hacks
+---
+id: life-hacks
+title: Life Hacks
+tags:
+  - life hacks
+  - content
+---
 
 <p align="center">
     Life Hacks tanto pessoal como profissional para aumentar a produtividade

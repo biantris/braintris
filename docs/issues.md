@@ -1,4 +1,11 @@
-# Issues
+---
+id: issues
+title: Issues
+tags:
+  - issues
+  - articles
+  - content
+---
 
 <p align="center">
 Aqui eu mostro todos os problemas que já passei e como resolvê-los:
