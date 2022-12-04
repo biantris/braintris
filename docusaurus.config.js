@@ -73,6 +73,11 @@ module.exports = {
           label: 'Tags',
         },
         {
+          href: 'https://www.patreon.com/beatrizoliveira',
+          label: 'Patreon',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/biantris/braintris',
           label: 'GitHub',
           position: 'right',
