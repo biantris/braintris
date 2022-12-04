@@ -1,4 +1,11 @@
-# Talks
+---
+id: talks
+title: Talks
+tags:
+  - talks
+  - content
+  - video
+---
 
 <p align="center">
     Palestras/Talks já apresentadas

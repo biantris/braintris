@@ -1,4 +1,11 @@
-# Eventos no JavaScript
+---
+id: eventos-javascript
+title: Eventos no JavaScript
+tags:
+  - eventos javascript
+  - javascript
+  - content
+---
 
 Normalmente, ao visitarmos páginas web, executamos ações através de botões, links ou elementos de ui. Como esses elementos clicáveis são manipulados através de eventos em JavaScript para podermos executar determinada funcionalidade.
 

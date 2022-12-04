@@ -2,8 +2,9 @@
 id: apal
 title: Apal
 tags:
+  - apal
   - content
-  - article
+  - articles
 ---
 
 <p align="center">

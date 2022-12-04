@@ -2,8 +2,8 @@
 id: articles
 title: Articles
 tags:
+  - articles
   - content
-  - article
 ---
 
 - [**Dev.to**](https://dev.to/beatrizoliveira): https://dev.to/beatrizoliveira
