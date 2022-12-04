@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[184],{9184:(e,r,t)=>{t.r(r),t.d(r,{default:()=>n});var a=t(7294);const n=function(e){var r=e.url;return(0,e.renderWrap)(a.createElement("embed",{src:r,type:"application/pdf",style:{width:"100%",minHeight:600},className:"react-embed--pdf"}))}}}]);
