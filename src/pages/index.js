@@ -25,6 +25,8 @@ const Home = () => {
             <Translate id='homePage.head.tagline'>
               {siteConfig.tagline}
             </Translate>
+            <br/>
+            <i>based on the idea of Zettelkasten</i>
           </p>
           <div className={styles.buttons}>
             <Link
