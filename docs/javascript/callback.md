@@ -29,3 +29,5 @@ The example above is of a **synchronous callback**, since it is executed immedia
 <div align="center" id="top"> 
     <img width="500" src="https://raw.githubusercontent.com/biantris/braintris/main/static/img/callback.png" />
 </div>
+
+https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
