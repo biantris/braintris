@@ -51,6 +51,16 @@ module.exports = {
   plugins: [
     require.resolve('./sitePlugin'),
     require.resolve('@cmfcmf/docusaurus-search-local', { language: 'pt-BR' }),
+    [
+      '@tereza-tech/docusaurus-plugin-zettel',
+      {
+        notesDir: './docs',
+        knowledgeGraph: {
+          path: '/braintris/knowledge-graph',
+          component: '@site/src/components/KnowledgeGraph',
+        },
+      },
+    ],
   ],
 
   themeConfig: {
