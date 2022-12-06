@@ -79,12 +79,22 @@ module.exports = {
         },
         {
           to: '/docs/tags/',
-          position: 'right',
+          position: 'left',
           label: 'Tags',
+        },
+        {
+          to: '/en/knowledge-graph/',
+          position: 'left',
+          label: 'Graph',
         },
         {
           href: 'https://www.patreon.com/beatrizoliveira',
           label: 'Patreon',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/sponsors/biantris',
+          label: 'Sponsor',
           position: 'right',
         },
         {
