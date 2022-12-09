@@ -8,7 +8,7 @@
     "@mdx-js/react": "^1.6.21",
     "@tereza-tech/docusaurus-plugin-zettel": "^0.0.3",
     "@tereza-tech/react-zettel": "^0.1.2",
-    "chalk": "^5.1.2",
+    "chalk": "^5.2.0",
     "clsx": "^1.2.1",
     "core-js": "^3.26.1",
     "mdx-embed": "^1.1.2",
