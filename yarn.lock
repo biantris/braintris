@@ -2189,12 +2189,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tereza-tech/docusaurus-plugin-zettel@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.3.tgz#1e7b50cdeafa97d8f6d07f800357da39cd1527ee"
-  integrity sha512-ICk6D1IlhWC2721r2XqdxaVqlvv7VEJdtNAshI5b5vjYpbFdUCrTlAlPWlT2ibqbFt47sxGK0IldxAwtfOLPQg==
+"@tereza-tech/docusaurus-plugin-zettel@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.4.tgz#88dae1d99164e02d246c174e922ce334c299de44"
+  integrity sha512-V7aOmBsyfKA8ia82RFsXTABP10gz+NM8hLJcxv3orDoCllqEH5S91W4ago65BvjUKkE0gf5Pn29fl1ahhWJccA==
   dependencies:
-    "@tereza-tech/zettel" "^0.12.2"
+    "@tereza-tech/zettel" "^0.13.0"
 
 "@tereza-tech/react-zettel@^0.2.0":
   version "0.2.0"
@@ -2205,10 +2205,10 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.12.2":
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.12.2.tgz#455be61bdcb53a2d2efaae0836b208bd70cbb4f9"
-  integrity sha512-L5RS1tjGO/c2XdmdzOCYN4ci0pBbXJ40X5fCvNXdlVr6UDLmZdH8dEty9/pBJm4G7XX8tfl5eyiL5l5ljEzI3g==
+"@tereza-tech/zettel@^0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.13.0.tgz#8e0ff5debaaacafb8461071e69c0206c95f05559"
+  integrity sha512-BBx5kppjD6XRND0IWx2lZUelGOrd/qSHBJsIkYBmKteNSuyq03AxUZo8PyG01yLjNGh9UpzVMRoscNDUgSDsgQ==
   dependencies:
     "@ttoss/config" "^1.20.0"
     change-case "^4.1.2"
