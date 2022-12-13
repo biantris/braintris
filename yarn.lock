@@ -2189,12 +2189,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tereza-tech/docusaurus-plugin-zettel@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.4.tgz#88dae1d99164e02d246c174e922ce334c299de44"
-  integrity sha512-V7aOmBsyfKA8ia82RFsXTABP10gz+NM8hLJcxv3orDoCllqEH5S91W4ago65BvjUKkE0gf5Pn29fl1ahhWJccA==
+"@tereza-tech/docusaurus-plugin-zettel@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.5.tgz#a4a0dd7b7f1e4aa1da141ef290352ad40757554e"
+  integrity sha512-6jJ1A5AD9YEiHe7CV5Yr3dUE38QSY4LzeKp2cyEe71NC25qiepwKtGdcUy2CMEBCx7aokIHK8PIW8R2L8IAPYg==
   dependencies:
-    "@tereza-tech/zettel" "^0.13.0"
+    "@tereza-tech/zettel" "^0.13.1"
 
 "@tereza-tech/react-zettel@^0.2.0":
   version "0.2.0"
@@ -2205,15 +2205,16 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.13.0.tgz#8e0ff5debaaacafb8461071e69c0206c95f05559"
-  integrity sha512-BBx5kppjD6XRND0IWx2lZUelGOrd/qSHBJsIkYBmKteNSuyq03AxUZo8PyG01yLjNGh9UpzVMRoscNDUgSDsgQ==
+"@tereza-tech/zettel@^0.13.1":
+  version "0.13.1"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.13.1.tgz#16b1281d6f4a598a81f70636a46c5fb7b86547cd"
+  integrity sha512-gQ2Asc3zMUdWawWX3tUTjB/if/0wTyKkz9jduMw+Qk5C5ygjf+CgdXCQzK6bp9G0rAlQZr1Q21Ux3CakMyB3ZA==
   dependencies:
     "@ttoss/config" "^1.20.0"
     change-case "^4.1.2"
     date-fns "^2.29.3"
     gray-matter "^4.0.3"
+    node-cache "^5.1.2"
     reading-time "^1.5.0"
     title-case "^3.0.3"
 
@@ -3614,6 +3615,11 @@ clone-response@^1.0.2:
   integrity sha512-ROoL94jJH2dUVML2Y/5PEDNaSHgeOdSDicUyS7izcF63G6sTc/FTjLub4b8Il9S8S0beOfYt0TaA5qvFK+w0wA==
   dependencies:
     mimic-response "^1.0.0"
+
+clone@2.x:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/clone/-/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
+  integrity sha512-3Pe/CF1Nn94hyhIYpjtiLhdCoEoz0DqQ+988E9gmeEdQZlojxnOb74wctFyuwWQHzqyf9X7C7MG8juUpqBJT8w==
 
 clsx@^1.1.0, clsx@^1.1.1, clsx@^1.2.1:
   version "1.2.1"
@@ -6992,6 +6998,13 @@ no-case@^3.0.4:
   dependencies:
     lower-case "^2.0.2"
     tslib "^2.0.3"
+
+node-cache@^5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/node-cache/-/node-cache-5.1.2.tgz#f264dc2ccad0a780e76253a694e9fd0ed19c398d"
+  integrity sha512-t1QzWwnk4sjLWaQAS8CHgOJ+RAfmHpxFWmc36IWTiWHQfs0w5JDMBS1b1ZxQteo0vVVuWJvIUKHDkkeK7vIGCg==
+  dependencies:
+    clone "2.x"
 
 node-emoji@^1.10.0:
   version "1.11.0"
