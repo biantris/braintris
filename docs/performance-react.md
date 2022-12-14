@@ -1,8 +1,8 @@
 ---
-id: performance-react
-title: Performance in React
+id: peformance-react
+title: Peformance in React
 tags:
-  - preformance
+  - peformance
   - react
   - javascript
   - content
