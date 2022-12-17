@@ -6,6 +6,7 @@ tags:
   - cs
   - content
   - notes
+  - en
 ---
 
 ### Structure and Interpretation of Computer Programs (SICP)
