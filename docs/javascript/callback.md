@@ -6,6 +6,7 @@ tags:
   - javascript
   - content
   - notes
+  - en
 ---
 
 A function that is passed to another function as an argument to another function, which is called within an external function to complete some kind of routine or action.

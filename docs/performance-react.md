@@ -7,6 +7,7 @@ tags:
   - javascript
   - content
   - notes
+  - en
 ---
 
 - lifecycle of reactive effects: https://beta.reactjs.org/learn/lifecycle-of-reactive-effects
