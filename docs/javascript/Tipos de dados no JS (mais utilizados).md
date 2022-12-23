@@ -1,4 +1,16 @@
-**String:** cadeia de caracteres, tipo de text
+---
+id: tipos-de-dados
+title: Tipos de dados no JS(mais utilizados)
+tags:
+  - tipos-de-dados
+  - javascript
+  - content
+  - pt-BR
+---
+
+### **String** 
+cadeia de caracteres, tipo de text
+
 ex: 
 ```js
 console.log("Aoba")
@@ -15,7 +27,9 @@ let name = prompt("what is your name?");
 console.log(`story ${name} story`);
 ```
 
-**Number**: números
+### **Number** 
+números
+
 ```js
 33 //inteiros
 12.5 // reais - float
@@ -26,7 +40,9 @@ console.log(1+1)
 // 2
 ```
 
-**Boolean**: booleano, 2 valores `true` ou `false`
+### **Boolean** 
+booleano, 2 valores `true` ou `false`
+
 ```js
 console.log(true)
 console.log(false)
@@ -58,7 +74,9 @@ console.log({
 })
 ```
 
-**Array:** (vetores)
+### **Array** 
+(vetores)
+
 - uma lista
 - um agrupamento de dados
 

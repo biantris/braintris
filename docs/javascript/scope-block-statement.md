@@ -1,4 +1,15 @@
-**Scope**: Escopo determina a visibilidade de alguma variável no js
+---
+id: scope-block-statement
+title: Scope, Block Statement
+tags:
+  - scope-block-statement
+  - javascript
+  - content
+  - notes
+  - pt-BR
+---
+
+**Scope**: Escopo determina a visibilidade de alguma variável no javaScript
 
 **Block Statement:** Declaração de bloco
 ```js

@@ -1,3 +1,13 @@
+---
+id: set-timeout
+title: setTimeout
+tags:
+  - set-timeout
+  - javascript
+  - content
+  - en
+---
+
 ### setTimeout
 The global method **setTimeout()** sets a time to execute a specified function or piece of code when the time has expired.
 
