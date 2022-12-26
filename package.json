@@ -10,7 +10,7 @@
     "@tereza-tech/react-zettel": "^0.2.0",
     "chalk": "^5.2.0",
     "clsx": "^1.2.1",
-    "core-js": "^3.26.1",
+    "core-js": "^3.27.0",
     "mdx-embed": "^1.1.2",
     "mdx-mermaid": "^1.3.2",
     "mobx": "^6.7.0",
