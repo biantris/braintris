@@ -1103,7 +1103,7 @@
     "@babel/helper-create-regexp-features-plugin" "^7.18.6"
     "@babel/helper-plugin-utils" "^7.18.6"
 
-"@babel/preset-env@^7.18.6", "@babel/preset-env@^7.19.4":
+"@babel/preset-env@^7.18.6", "@babel/preset-env@^7.19.4", "@babel/preset-env@^7.20.2":
   version "7.20.2"
   resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.20.2.tgz#9b1642aa47bb9f43a86f9630011780dab7f86506"
   integrity sha512-1G0efQEWR1EHkKvKHqbG+IN/QdgwfByUpM5V5QroDzGV2t3S/WXNQd693cHiHTlCFMpr9B6FkPFXDA2lQcKoDg==
@@ -1309,7 +1309,7 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@commitlint/config-conventional@^17.0.3":
+"@commitlint/config-conventional@^17.3.0":
   version "17.3.0"
   resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-17.3.0.tgz#77bcfabfed932bc80e97f31f2201ba05f504e145"
   integrity sha512-hgI+fN5xF8nhS9uG/V06xyT0nlcyvHHMkq0kwRSr96vl5BFlRGaL2C0/YY4kQagfU087tmj01bJkG9Ek98Wllw==
@@ -1802,7 +1802,7 @@
   dependencies:
     tslib "^2.4.0"
 
-"@formatjs/ts-transformer@3.11.5", "@formatjs/ts-transformer@^3.9.8":
+"@formatjs/ts-transformer@3.11.5", "@formatjs/ts-transformer@^3.11.5":
   version "3.11.5"
   resolved "https://registry.yarnpkg.com/@formatjs/ts-transformer/-/ts-transformer-3.11.5.tgz#0502c0c38d4ad628efbef61f1c2e35b7ea37959e"
   integrity sha512-cAmvKzgPqdetAr/RsxoXYhfNhMf5tERlXzJTsQw+j6tddPwIAbihACQx6KaajyJJ4aNssiziWNmcaHtjTqrrVw==
@@ -2189,12 +2189,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tereza-tech/docusaurus-plugin-zettel@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.5.tgz#a4a0dd7b7f1e4aa1da141ef290352ad40757554e"
-  integrity sha512-6jJ1A5AD9YEiHe7CV5Yr3dUE38QSY4LzeKp2cyEe71NC25qiepwKtGdcUy2CMEBCx7aokIHK8PIW8R2L8IAPYg==
+"@tereza-tech/docusaurus-plugin-zettel@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.6.tgz#b71c612c6b7d7c84ac7c014c03c871cc1b23f258"
+  integrity sha512-RsNMDMIApNdTUI5cWCGhN1g0T1LKduegjSs5DloJFs6L3zwnh9qSAzt72tYQni1v+Sb38sHhxRtxim1F4356zg==
   dependencies:
-    "@tereza-tech/zettel" "^0.13.1"
+    "@tereza-tech/zettel" "^0.13.2"
 
 "@tereza-tech/react-zettel@^0.2.0":
   version "0.2.0"
@@ -2205,12 +2205,12 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.13.1":
-  version "0.13.1"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.13.1.tgz#16b1281d6f4a598a81f70636a46c5fb7b86547cd"
-  integrity sha512-gQ2Asc3zMUdWawWX3tUTjB/if/0wTyKkz9jduMw+Qk5C5ygjf+CgdXCQzK6bp9G0rAlQZr1Q21Ux3CakMyB3ZA==
+"@tereza-tech/zettel@^0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.13.2.tgz#59f6d3706be49e02c9e95c10d47bc6b918b38f77"
+  integrity sha512-RiEL+PhCYebgbqdtaJj3FJFV8XzwbGxaStAZYxOZ4lunyxQjmwwibnYe/zk0RPajLfPhuwgg1DPpWyHlJtYftQ==
   dependencies:
-    "@ttoss/config" "^1.20.0"
+    "@ttoss/config" "^1.25.0"
     change-case "^4.1.2"
     date-fns "^2.29.3"
     gray-matter "^4.0.3"
@@ -2223,20 +2223,20 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ttoss/config@^1.20.0":
-  version "1.20.0"
-  resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.20.0.tgz#0db5d305169f7a5968e509d24ad96d4adeca81f5"
-  integrity sha512-BmQ4la6OuuxUpME91jXvmsSPcqht78Yv/YLCQf3BKKLs89xiTUYElcLW+ZfN3Ccc9lxiiArixxGee6v1fl0KEw==
+"@ttoss/config@^1.25.0":
+  version "1.26.0"
+  resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.26.0.tgz#4332d7e4b7f5e0ed41b38c3752e8f93effbec09d"
+  integrity sha512-WWjc2/ACgUJAuI0R2QtEYCryfu03yznYOTRZ7YfHhFsEbdPGe7alquBkaTFivetqYbDsnRsuH97B7GK3L0I+wg==
   dependencies:
-    "@babel/preset-env" "^7.18.6"
+    "@babel/preset-env" "^7.20.2"
     "@babel/preset-react" "^7.18.6"
     "@babel/preset-typescript" "^7.18.6"
-    "@commitlint/config-conventional" "^17.0.3"
-    "@formatjs/ts-transformer" "^3.9.8"
-    babel-plugin-formatjs "^10.3.24"
+    "@commitlint/config-conventional" "^17.3.0"
+    "@formatjs/ts-transformer" "^3.11.5"
+    babel-plugin-formatjs "^10.3.35"
     deepmerge "^4.2.2"
     identity-obj-proxy "^3.0.0"
-    prettier-package-json "^2.6.4"
+    prettier-package-json "^2.8.0"
 
 "@tweenjs/tween.js@18":
   version "18.6.4"
@@ -3118,7 +3118,7 @@ babel-plugin-extract-import-names@1.6.22:
   dependencies:
     "@babel/helper-plugin-utils" "7.10.4"
 
-babel-plugin-formatjs@^10.3.24:
+babel-plugin-formatjs@^10.3.35:
   version "10.3.35"
   resolved "https://registry.yarnpkg.com/babel-plugin-formatjs/-/babel-plugin-formatjs-10.3.35.tgz#50fb522188d9a06ee7c8bf82e2206fb05c8b8967"
   integrity sha512-AGPsA9jOH68CBk2kKRlC8pFkjR9F1fFQ5+BEYc3y2+8E4j188sSlooYy8l//sO5mLISfIVuo7C0PZT61MlifKA==
@@ -7868,10 +7868,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier-package-json@^2.6.4:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/prettier-package-json/-/prettier-package-json-2.7.0.tgz#98438c7d36fae0a229a323a598de1603ccfb936d"
-  integrity sha512-51I3/fYpBTLDXQDQK7+dfNlJzh5wdKhK8QteSZTZMppQd6aGpr1wqpwlKKZF1KdWA+91rwfpHUBrKwd2PXdXag==
+prettier-package-json@^2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/prettier-package-json/-/prettier-package-json-2.8.0.tgz#70aba2b4f7aeb4e294ae2191fb64b7d8fdea0398"
+  integrity sha512-WxtodH/wWavfw3MR7yK/GrS4pASEQ+iSTkdtSxPJWvqzG55ir5nvbLt9rw5AOiEcqqPCRM92WCtR1rk3TG3JSQ==
   dependencies:
     "@types/parse-author" "^2.0.0"
     commander "^4.0.1"
