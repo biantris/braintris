@@ -1,3 +1,14 @@
+---
+id: til-job-unitok
+title: Things I've learned -> unitok
+tags:
+  - til
+  - job
+  - notes
+  - wip
+  - en
+---
+
 ### things I've learned -> unitok
 
 - How to update data with mongoose and mongoDB in `mongoose.Types.ObjectId` value
