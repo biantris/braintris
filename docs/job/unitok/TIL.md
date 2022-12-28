@@ -1,6 +1,6 @@
 ---
 id: til-job-unitok
-title: Things I've learned -> unitok
+title: TIL -> unitok
 tags:
   - til
   - job
@@ -9,7 +9,7 @@ tags:
   - en
 ---
 
-### things I've learned -> unitok
+### Things I've learned -> unitok
 
 - How to update data with mongoose and mongoDB in `mongoose.Types.ObjectId` value
 	https://gist.github.com/biantris/378890e0a533179e186a61ccfd160687
