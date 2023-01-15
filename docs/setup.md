@@ -21,3 +21,4 @@ tags:
 - Mesa - nao lembro aaa
 - Cadeira - tb nao lembro
 - [Suporte p/ Headset BLACKFIRE Preto FORTREK G](https://www.fortrek.com.br/suporte-p-headset-blackfire-preto-fortrek-g)
+- [Keychron k3/k7 descanso de madeira para o teclado mecânico de bluetooth](https://pt.aliexpress.com/item/1005002663461127.html?_randl_currency=BRL&_randl_shipto=BR&src=google&memo1=freelisting&src=google&albch=shopping&acnt=768-202-3196&isdl=y&aff_short_key=UneMJZVf&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&&isSmbAutoCall=false&needSmbHouyi=false&albcp=17939045214&albag=&trgt=&crea=pt1005002663461127&netw=x&device=c&albpg=&albpd=pt1005002663461127&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIfe2xfCI9P7h-omNM4st-MPY5C5zdhEPczcNkmSso657B3uSHuEHxhoCIHYQAvD_BwE&gclsrc=aw.ds)
