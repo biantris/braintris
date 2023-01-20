@@ -7,7 +7,6 @@ tags:
   - fullstack
   - front-end
   - back-end
-  - work
   - wip
   - en
 ---
