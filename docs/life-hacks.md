@@ -6,10 +6,4 @@ tags:
   - content
 ---
 
-<p align="center">
-    Life Hacks tanto pessoal como profissional para aumentar a produtividade
-</p>
-
----
-
-- [**Git Aliases**](https://gist.github.com/beatrizoliveiira/4fae05faa74639500de8b6026dddf39c)
+- [**Git Aliases**](https://gist.github.com/biantris/4fae05faa74639500de8b6026dddf39c)
