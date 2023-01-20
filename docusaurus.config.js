@@ -155,7 +155,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} biantris, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Beatriz Oliveira`,
     },
     prism: {
       theme: lightCodeTheme,
