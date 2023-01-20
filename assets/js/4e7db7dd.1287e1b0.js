@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[5844],{4891:a=>{a.exports=JSON.parse('{"label":"apal","permalink":"/braintris/docs/tags/apal","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"apal","title":"Apal","description":"~ Analyses and Perceptions about Life","permalink":"/braintris/docs/apal"}]}')}}]);

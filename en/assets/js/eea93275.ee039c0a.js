@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[1664],{5136:a=>{a.exports=JSON.parse('{"label":"apal","permalink":"/braintris/en/docs/tags/apal","allTagsPath":"/braintris/en/docs/tags","count":1,"items":[{"id":"apal","title":"Apal","description":"- Speak it like you\'re playing a video game","permalink":"/braintris/en/docs/apal"}]}')}}]);
