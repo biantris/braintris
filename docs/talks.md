@@ -12,7 +12,7 @@ tags:
 
 - [**Learn in Public**](https://speakerdeck.com/beatrizoliveiira/learn-in-public) `(Sep 16, 2022)`
 <a href="https://speakerdeck.com/beatrizoliveiira/learn-in-public">
- <img src="../img/lip-cover.png"/>
+ <img src="https://raw.githubusercontent.com/biantris/braintris/main/static/img/lip-cover.png"/>
  </a>
 
 - [**He4rt Conf**](https://biantris.github.io/talk-he4rt-conf/#0) `(Oct 3, 2021)`
