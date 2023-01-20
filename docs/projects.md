@@ -5,6 +5,9 @@ tags:
   - projects
   - content
   - fullstack
+  - front-end
+  - back-end
+  - work
   - wip
   - en
 ---
