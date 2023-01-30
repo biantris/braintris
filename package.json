@@ -6,7 +6,7 @@
     "@docusaurus/core": "2.2.0",
     "@docusaurus/preset-classic": "2.3.0",
     "@mdx-js/react": "^1.6.21",
-    "@tereza-tech/docusaurus-plugin-zettel": "^0.0.8",
+    "@tereza-tech/docusaurus-plugin-zettel": "^0.0.9",
     "@tereza-tech/react-zettel": "^0.2.0",
     "chalk": "^5.2.0",
     "clsx": "^1.2.1",
