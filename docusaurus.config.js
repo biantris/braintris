@@ -161,5 +161,16 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        {
+          gtag: {
+            trackingID: process.env.GTAG_ID,
+            anonymizeIP: true,
+          },
+        },
+      ],
+    ],
   },
 };
