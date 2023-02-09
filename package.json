@@ -4,6 +4,7 @@
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "0.11.0",
     "@docusaurus/core": "2.3.1",
+    "@docusaurus/plugin-google-gtag": "^2.3.1",
     "@docusaurus/preset-classic": "2.3.1",
     "@mdx-js/react": "^1.6.21",
     "@tereza-tech/docusaurus-plugin-zettel": "^0.0.14",
@@ -11,6 +12,7 @@
     "chalk": "^5.2.0",
     "clsx": "^1.2.1",
     "core-js": "^3.27.2",
+    "dotenv": "^16.0.3",
     "mdx-embed": "^1.1.2",
     "mdx-mermaid": "^1.3.2",
     "mobx": "^6.7.0",
