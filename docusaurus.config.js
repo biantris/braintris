@@ -20,8 +20,8 @@ module.exports = {
   },
   title: 'braintris',
   tagline: `Here that contain everything I've created and studied`,
-  url: 'https://braintris.github.io', //wip
-  baseUrl: '/braintris/',
+  url: 'https://braintris.vercel.app/', //'https://braintris.github.io', //wip
+  baseUrl: '/',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icons/favicon.ico',
   organizationName: 'biantris',
@@ -56,7 +56,7 @@ module.exports = {
       {
         notesDir: './docs',
         knowledgeGraph: {
-          path: '/braintris/en/knowledge-graph',
+          path: '/en/knowledge-graph',
           component: '@site/src/components/KnowledgeGraph',
         },
       },
