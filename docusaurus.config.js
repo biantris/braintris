@@ -56,7 +56,7 @@ module.exports = {
       {
         notesDir: './docs',
         knowledgeGraph: {
-          path: '/braintris/en/knowledge-graph',
+          path: '/en/knowledge-graph',
           component: '@site/src/components/KnowledgeGraph',
         },
       },
