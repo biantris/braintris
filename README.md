@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.twitch.tv/biantriz">
+    <a href="https://www.twitch.tv/biantris">
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantriz?style=social">
     </a>
 </p>
