@@ -32,7 +32,7 @@
         alt="follow on Twitter">
     </a>
     <a href="https://www.twitch.tv/biantris">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantriz?style=social">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantris?style=social">
     </a>
 </p>
 
