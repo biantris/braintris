@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[6129],{1783:s=>{s.exports=JSON.parse('{"label":"life hacks","permalink":"/braintris/en/docs/tags/life-hacks","allTagsPath":"/braintris/en/docs/tags","count":1,"items":[{"id":"life-hacks","title":"Life Hacks","description":"- Git Aliases","permalink":"/braintris/en/docs/life-hacks"}]}')}}]);

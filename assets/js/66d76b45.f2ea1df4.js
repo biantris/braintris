@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[6098],{1563:s=>{s.exports=JSON.parse('{"label":"css","permalink":"/braintris/docs/tags/css","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"listing-css","title":"Listing CSS","description":"Listing CSS","permalink":"/braintris/docs/listing-css"}]}')}}]);
