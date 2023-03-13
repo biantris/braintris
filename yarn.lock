@@ -3132,11 +3132,12 @@
   dependencies:
     "@tereza-tech/zettel" "^0.20.0"
 
-"@tereza-tech/react-zettel@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/react-zettel/-/react-zettel-0.2.0.tgz#4dab40e9dc3f838e8797714fa2f7b929c1234a45"
-  integrity sha512-MDmKgHrcsKgGwXAqt9SUwYOqYa4bdPeC6WyN7RhiXLY7LHxcIrtEWzJbXnKXHtlGm+OGd2jZ9aEbRp0mg/aPHA==
+"@tereza-tech/react-zettel@^0.8.1":
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/react-zettel/-/react-zettel-0.8.1.tgz#489519681ff5f26618bd9c053910e936bc2ebe00"
+  integrity sha512-1v+/CQLMrKC1H6D/PifTxb8iZj/Et3ad3hDGRcWE0Qw8oNIL9dvoLkLUV4vr2V7ybVdWyRM7oUFDKPdmAB3WBQ==
   dependencies:
+    "@tereza-tech/zettel" "^0.21.0"
     react-force-graph-2d "^1.23.13"
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
@@ -3145,6 +3146,19 @@
   version "0.20.0"
   resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.20.0.tgz#75d1c02923a1a94eb3b431100dada17872376aaf"
   integrity sha512-Rh3UAZAHMJMhTG+2zAisoGVE/br+oy2IbGs1BqZR+Edvbt0v3z3SfA1rKrxxOzBQ9Yoq3f4PPTEZFUoUAgeg/Q==
+  dependencies:
+    "@aws-sdk/client-s3" "^3.266.0"
+    "@ttoss/config" "^1.28.1"
+    change-case "^4.1.2"
+    date-fns "^2.29.3"
+    gray-matter "^4.0.3"
+    reading-time "^1.5.0"
+    title-case "^3.0.3"
+
+"@tereza-tech/zettel@^0.21.0":
+  version "0.21.0"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.21.0.tgz#b64744d06db0b982e7d0d7e48e8ec789b38696f2"
+  integrity sha512-eHZREeVhFUEUFVYoJ39+lKFCKqpjLIC5XZPln8p6hkYgrQBVX6P1/4IVtCf7/PDmVjU8gHI7T4IUS3phfWrdFg==
   dependencies:
     "@aws-sdk/client-s3" "^3.266.0"
     "@ttoss/config" "^1.28.1"
