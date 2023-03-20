@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[828],{9776:(e,t,r)=>{r.r(t),r.d(t,{default:()=>u});var a=r(7294),n=r(748),l=r(2269);const u=function(e){var t=e.graphData;return a.createElement(l.Z,null,a.createElement(n.Z,null,(function(){var e=r(817);return a.createElement(e.KnowledgeGraph,{graphData:t,width:1e3,height:600})})))}}}]);
