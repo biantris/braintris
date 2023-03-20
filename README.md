@@ -57,7 +57,7 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 #or
 > yarn install
 
-> yarn dev
+> yarn start
 
 Open in: http://localhost:3000
 ```
