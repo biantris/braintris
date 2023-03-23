@@ -33,9 +33,6 @@
     </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/65451957/227199222-4295b4e5-f4ff-45b9-8cd6-482d169a0cc8.png)
-
-
 <div align="center">
 bia knowledge base
     
