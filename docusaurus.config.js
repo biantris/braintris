@@ -1,27 +1,11 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const locales = ['pt-BR', 'en'];
-
-const localeConfigs = {
-  en: {
-    label: 'English',
-  },
-  'pt-BR': {
-    label: 'Português',
-  },
-};
-
 module.exports = {
-  i18n: {
-    defaultLocale: 'pt-BR',
-    locales,
-    localeConfigs,
-  },
   title: 'braintris',
   tagline: `Here that contain everything I've created and studied`,
-  url: 'https://braintris.vercel.app/', //'https://braintris.github.io', //wip
-  baseUrl: '/',
+  url: 'https://braintris.github.io', //wip
+  baseUrl: '/braintris/',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icons/favicon.ico',
   organizationName: 'biantris',
@@ -50,7 +34,7 @@ module.exports = {
 
   plugins: [
     require.resolve('./sitePlugin'),
-    require.resolve('@cmfcmf/docusaurus-search-local', { language: 'pt-BR' }),
+    require.resolve('@cmfcmf/docusaurus-search-local'),
     [
       '@tereza-tech/docusaurus-plugin-zettel',
       {
