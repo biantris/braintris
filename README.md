@@ -31,10 +31,10 @@
         <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.twitch.tv/biantris">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantris?style=social">
-    </a>
 </p>
+
+![image](https://user-images.githubusercontent.com/65451957/227199222-4295b4e5-f4ff-45b9-8cd6-482d169a0cc8.png)
+
 
 <div align="center">
 bia knowledge base
@@ -45,8 +45,6 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 <p align="center">
 🚧 this is a wip forever 🚧
 </p>
-
-[![documentation](https://github.com/biantris/braintris/actions/workflows/deploy.yml/badge.svg)](https://github.com/biantris/braintris/actions/workflows/deploy.yml)
 
 ### Getting Started
 
