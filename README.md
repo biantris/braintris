@@ -43,8 +43,6 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 🚧 this is a wip forever 🚧
 </p>
 
-![image](https://user-images.githubusercontent.com/65451957/227199222-4295b4e5-f4ff-45b9-8cd6-482d169a0cc8.png)
-
 [![documentation](https://github.com/biantris/braintris/actions/workflows/deploy.yml/badge.svg)](https://github.com/biantris/braintris/actions/workflows/deploy.yml)
 
 ### Getting Started
