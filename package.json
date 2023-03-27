@@ -15,7 +15,7 @@
     "dotenv": "^16.0.3",
     "mdx-embed": "^1.1.2",
     "mdx-mermaid": "^1.3.2",
-    "mobx": "^6.8.0",
+    "mobx": "^6.9.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-embed": "^3.6.0",
