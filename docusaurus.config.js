@@ -1,23 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const locales = ['pt-BR', 'en'];
-
-const localeConfigs = {
-  en: {
-    label: 'English',
-  },
-  'pt-BR': {
-    label: 'Português',
-  },
-};
-
 module.exports = {
-  i18n: {
-    defaultLocale: 'pt-BR',
-    locales,
-    localeConfigs,
-  },
   title: 'braintris',
   tagline: `Here that contain everything I've created and studied`,
   url: 'https://braintris.github.io', //wip
@@ -50,13 +34,13 @@ module.exports = {
 
   plugins: [
     require.resolve('./sitePlugin'),
-    require.resolve('@cmfcmf/docusaurus-search-local', { language: 'pt-BR' }),
+    require.resolve('@cmfcmf/docusaurus-search-local'),
     [
       '@tereza-tech/docusaurus-plugin-zettel',
       {
         notesDir: './docs',
         knowledgeGraph: {
-          path: '/braintris/en/knowledge-graph',
+          path: '/en/knowledge-graph',
           component: '@site/src/components/KnowledgeGraph',
         },
       },
@@ -161,5 +145,16 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        {
+          gtag: {
+            trackingID: process.env.GTAG_ID,
+            anonymizeIP: true,
+          },
+        },
+      ],
+    ],
   },
 };

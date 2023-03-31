@@ -31,9 +31,6 @@
         <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.twitch.tv/biantriz">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantriz?style=social">
-    </a>
 </p>
 
 <div align="center">
@@ -57,7 +54,7 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 #or
 > yarn install
 
-> yarn dev
+> yarn start
 
 Open in: http://localhost:3000
 ```
