@@ -157,6 +157,11 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Beatriz Oliveira`,
     },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
@@ -165,6 +170,9 @@ module.exports = {
       [
         '@docusaurus/preset-classic',
         {
+          theme: {
+            customCss: require.resolve('./src/css/custom.css'),
+          },
           gtag: {
             trackingID: process.env.GTAG_ID,
             anonymizeIP: true,
