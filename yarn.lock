@@ -3266,12 +3266,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tereza-tech/docusaurus-plugin-zettel@^0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.14.tgz#498468aa5d9e8b864d90a1144bd77b89c91a71aa"
-  integrity sha512-qhPAaovRbq3fltyc5BEciUYK7XjZgJMcP+4jV4UIt5hGOX7ntzVygkYhq7MgJoZ8tCH4ESlolcjA7XlE5rJVtg==
+"@tereza-tech/docusaurus-plugin-zettel@^0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.17.tgz#41c92ed326d307424a6378b9081ffc0d5ebfd1d4"
+  integrity sha512-kRtF+ziJLrncL06cUPCLez3WxNM0WH72S0MEAR+ORkkYvpab4BWzPBpwQH/0VvSAVoCFYguktEaBY2+VaDR9hg==
   dependencies:
-    "@tereza-tech/zettel" "^0.19.0"
+    "@tereza-tech/zettel" "^0.22.0"
 
 "@tereza-tech/react-zettel@^0.2.0":
   version "0.2.0"
@@ -3282,13 +3282,13 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.19.0":
-  version "0.19.0"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.19.0.tgz#6e6478e7af82dd57603500ab50416253744195d1"
-  integrity sha512-5UFkGYJOBkbF02F4nw1szr9hFNP9W0SEzkqhL/r54jF8zy2gI0i9Ti1s7u/zEhQjkTkSUo1m3xVO3g9YW+lmrA==
+"@tereza-tech/zettel@^0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.22.0.tgz#a600dc5e3c06c04c7dd08190b1c464cae1d21ac2"
+  integrity sha512-ngZnaqGdMo0NBUdnUIpdifRQPfvjh0wg4+ZEWo8RnILFgezkUWcD/3mtPIzI0O2VOZ8XELsHzoB+HwpL2W1IkQ==
   dependencies:
     "@aws-sdk/client-s3" "^3.266.0"
-    "@ttoss/config" "^1.28.0"
+    "@ttoss/config" "^1.29.2"
     change-case "^4.1.2"
     date-fns "^2.29.3"
     gray-matter "^4.0.3"
@@ -3300,7 +3300,7 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ttoss/config@^1.28.0":
+"@ttoss/config@^1.29.2":
   version "1.29.2"
   resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.29.2.tgz#47d80a11ecee6d3cee3ff2d10b62a1813d0d6912"
   integrity sha512-NLCAeb86dWQfZc0vcOUcA/FBrELKr1mkNBew3KXUtn5uDVOScJfpOeGGy5SH2wzQu1se58LxmKqU83ZS6cMsmQ==
