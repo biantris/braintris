@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[1888],{1718:s=>{s.exports=JSON.parse('{"label":"tools","permalink":"/en/docs/tags/tools","allTagsPath":"/en/docs/tags","count":1,"items":[{"id":"setup","title":"Setup","description":"Equipamentos","permalink":"/en/docs/setup"}]}')}}]);

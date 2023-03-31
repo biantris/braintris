@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[7210],{1020:t=>{t.exports=JSON.parse('{"label":"test","permalink":"/docs/tags/test","allTagsPath":"/docs/tags","count":1,"items":[{"id":"how-to-test","title":"How to test","description":"How to properly test?","permalink":"/docs/how-to-test"}]}')}}]);

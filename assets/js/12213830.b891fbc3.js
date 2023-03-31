@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[290],{6768:i=>{i.exports=JSON.parse('{"label":"mongoDB","permalink":"/docs/tags/mongo-db","allTagsPath":"/docs/tags","count":1,"items":[{"id":"mongoDB/query-optimization","title":"Query Optimization","description":"Query optimization in MongoDB","permalink":"/docs/mongoDB/query-optimization"}]}')}}]);

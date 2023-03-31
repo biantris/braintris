@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[6023],{1072:t=>{t.exports=JSON.parse('{"label":"set-timeout","permalink":"/en/docs/tags/set-timeout","allTagsPath":"/en/docs/tags","count":1,"items":[{"id":"javascript/set-timeout","title":"setTimeout","description":"setTimeout","permalink":"/en/docs/javascript/set-timeout"}]}')}}]);
