@@ -9,7 +9,7 @@ tags:
 ---
 
 <p align="center">
-    <img width="150" src="../static/img/me.png" />
+    <img width="150" src="../img/me.png" />
     <p>me :]</p>
 </p>
 

@@ -30,5 +30,3 @@ tags:
  <a href="https://www.seujardineiro.com/">
  <img src="https://biantris.github.io/braintris/img/seu-jardineiro-cover.png"/>
  </a>
-
-- physio system 👨‍⚕: 🚧 wip 🚧
