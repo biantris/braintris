@@ -9,7 +9,7 @@ tags:
 ---
 
 <p align="center">
-    <img width="150" src="../img/me.png" />
+    <img width="150" src="../static/img/me.png" />
     <p>me :]</p>
 </p>
 
@@ -17,7 +17,7 @@ Hi, my name is Beatriz Oliveira a.k.a [biantris](https://twitter.com/biantris_).
 and practice a lot the idea with [Learn in Public](https://www.swyx.io/learn-in-public/) in sharing my
 knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
-I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `NextJS` and the related ecosystem. I also have experience developing `REST APIs` in the `NodeJS` ecosystem, with databases like `MongoDB` and `GraphQL` data query language using its `Relay` framework, focusing on products aligned with user needs.
+I have been working for 3~ years with `JavaScript`, `TypeScript`, `ReactJS`, `NextJS` and the related ecosystem. I also have experience developing `REST APIs` in the `NodeJS` ecosystem, with databases like `MongoDB` and `GraphQL` data query language using its `Relay` framework, focusing on products aligned with user needs.
 
 `UI&UX` Designer with experience in mobile interfaces, desktops, posts, and systems, using `Figma` as the principal tool.
 
@@ -33,18 +33,31 @@ I have been working for 2.5~ years with `JavaScript`, `TypeScript`, `ReactJS`, `
 
 <details open>
     <summary>
+        <b>Full Stack Developer - Storm Group | Globo </b>
+    </summary>
+    <b>Link</b>: <a href="https://stormgroup.com.br/" target="_blank">https://stormgroup.com.br</a>
+    <br/>
+    <b>Time</b>: april 2023 - the moment
+    <br/>
+    <b>Description</b>: Full-stack development and maintenance for audience and communication systems and applications for the Brazilian System of the Globo Television Network.
+    <br/>
+    <b>Competencies</b>: JavaScript · TypeScript· React.js · Vue.js · Node.js · PostgreSQL · Amazon Web Services
+</details>
+
+### Previously
+
+<details open>
+    <summary>
         <b>Full Stack Developer I - askLisa</b>
     </summary>
     <b>Link</b>: <a href="https://www.asklisa.com.br/" target="_blank">https://www.asklisa.com.br</a>
     <br/>
-    <b>Time</b>: set de 2022 - the moment - 3 months
+    <b>Time</b>: set 2022 - dez de 2022 - 3 months
     <br/>
     <b>Description</b>: Full stack development for B2B SaaS applications with a focus on customers, application analysis, and performance as well as maintaining quality code with scalability.
     <br/>
     <b>Competencies</b>: Next.js · React.js · Go Lang · MongoDB · Redis · Terraform · Amazon Web Services · TypeScript
 </details>
-
-### Previously
 
 <details open>
     <summary>
