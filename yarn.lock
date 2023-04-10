@@ -1199,7 +1199,7 @@
     json5 "^2.2.1"
     semver "^6.3.0"
 
-"@babel/core@^7.21.3":
+"@babel/core@^7.21.4":
   version "7.21.4"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.21.4.tgz#c6dc73242507b8e2a27fd13a9c1814f9fa34a659"
   integrity sha512-qt/YV149Jman/6AfmlxJ04LMIu8bMoyl3RB91yTFrxQmgbrSvQMy7cI8Q62FHx1t8wJ8B5fu0UDoLwHAhUo1QA==
@@ -3409,12 +3409,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tereza-tech/docusaurus-plugin-zettel@^0.0.18":
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.18.tgz#cd3bc1a6237dc19ac1033d8075893cbdde48504b"
-  integrity sha512-MsC0jsBpXPG4exXwz/aLUBQIBT3MigiPeDtoAyezOYx+OU7f+bnMFpO3FB7NRLtEDyUIAeO2g9UTfLVSZna3oA==
+"@tereza-tech/docusaurus-plugin-zettel@^0.0.19":
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.19.tgz#6079ffd64d08b9b3e3c4dac52f9256128adac4ee"
+  integrity sha512-J8F7Ax4PQJDirvFIvyrCZqZvQ0p2ipoL6YjAtDRtH8moVIvIHCHWjOAocZkcgBXAfjqtHzpi818suEwEJ37SPw==
   dependencies:
-    "@tereza-tech/zettel" "^0.22.1"
+    "@tereza-tech/zettel" "^0.23.0"
 
 "@tereza-tech/react-zettel@^0.2.0":
   version "0.2.0"
@@ -3425,13 +3425,13 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.22.1":
-  version "0.22.1"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.22.1.tgz#5757b8ac92fed9df0fb8ffe1ae4bb0c41f9ec49d"
-  integrity sha512-hTgeMZhflmxU4j2zjTorLI6VU8jyS4ZtjM2fNvclZmomEItTGggw9fULNxTH5LPwl9lQ/OW+AjvDF8JEB9hkoQ==
+"@tereza-tech/zettel@^0.23.0":
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.23.0.tgz#b42e5e60a870c85c261ed72be261c59fea0641d9"
+  integrity sha512-g6lhYdNcDx4WKB728bPk7MlUqltuNdLH8mBWWkxlqUmtsllpRfIo94lmetODyzZ5uyw/2bMv/1003DvSLGOfPg==
   dependencies:
     "@aws-sdk/client-s3" "^3.304.0"
-    "@ttoss/config" "^1.29.2"
+    "@ttoss/config" "^1.29.3"
     change-case "^4.1.2"
     date-fns "^2.29.3"
     gray-matter "^4.0.3"
@@ -3443,12 +3443,12 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ttoss/config@^1.29.2":
-  version "1.29.2"
-  resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.29.2.tgz#47d80a11ecee6d3cee3ff2d10b62a1813d0d6912"
-  integrity sha512-NLCAeb86dWQfZc0vcOUcA/FBrELKr1mkNBew3KXUtn5uDVOScJfpOeGGy5SH2wzQu1se58LxmKqU83ZS6cMsmQ==
+"@ttoss/config@^1.29.3":
+  version "1.29.3"
+  resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.29.3.tgz#b9ae30bdd78f6eaf1c1905398e302b7ec950d146"
+  integrity sha512-oLQ2IOv8kMy5etuo4faaAtGOocSQwaKxhDd57hv+uHrY/tmdvwuxCY73OLJQyHowptbnV/TLsM1IbzfbJT6tMQ==
   dependencies:
-    "@babel/core" "^7.21.3"
+    "@babel/core" "^7.21.4"
     "@babel/preset-env" "^7.20.2"
     "@babel/preset-react" "^7.18.6"
     "@babel/preset-typescript" "^7.18.6"
