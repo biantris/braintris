@@ -58,4 +58,7 @@ obj.greet(); // output: Olá, meu nome é undefined.
 
 ```
 
-No exemplo acima, a função anônima que é passada para função `setTimeout` não está vinculada ao objeto `obj`, portanto, o valor de `this` é underfined. Para resolver esse problema, podemos utilizar `arrow functions` ou `bind()` para de definir o valor de `this`dentro da função. 
+No exemplo acima, a função anônima que é passada para função `setTimeout` não está vinculada ao objeto `obj`, portanto, o valor de `this` é underfined. Para resolver esse problema, podemos utilizar `arrow functions` ou `bind()` para de definir o valor de `this`dentro da função.
+
+#### Leia mais sobre `this`
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/this
