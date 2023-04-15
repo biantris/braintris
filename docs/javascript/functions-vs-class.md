@@ -10,6 +10,8 @@ tags:
 
 Em JavaScript, funções e classes são duas formas diferentes de se criar estruturas de código reutilizáveis.
 
+> **disclaimer:** esse texto é mais voltado para o estudo de **classes** em JavaScript
+
 ### Diferenças:
 
 - **Sintaxe**: A sintaxe para criar funções e classes são diferentes. Funções são definidas usando a palavra-chave `function`, enquanto classes são definidas usando a palavra-chave `class`.
