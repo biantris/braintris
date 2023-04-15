@@ -62,3 +62,4 @@ No exemplo acima, a função anônima que é passada para função `setTimeout` 
 
 #### Leia mais sobre `this`
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/this
+- https://www.webdevdrops.com/javascript-this-71dd763aad52/
