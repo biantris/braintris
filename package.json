@@ -20,7 +20,7 @@
     "react-dom": "18.2.0",
     "react-embed": "^3.6.0",
     "redoc": "2.0.0",
-    "redocusaurus": "1.4.0",
+    "redocusaurus": "1.6.2",
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
