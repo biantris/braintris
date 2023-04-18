@@ -64,6 +64,12 @@ module.exports = {
   ],
 
   themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
     navbar: {
       title: 'Home',
       // logo: {
