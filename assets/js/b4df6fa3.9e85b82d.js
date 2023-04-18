@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[4562],{9211:s=>{s.exports=JSON.parse('{"label":"closure","permalink":"/braintris/docs/tags/closure","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"javascript/closure-js","title":"Closure","description":"Closure","permalink":"/braintris/docs/javascript/closures"}]}')}}]);
