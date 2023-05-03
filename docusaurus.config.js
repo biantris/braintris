@@ -176,6 +176,12 @@ module.exports = {
       [
         '@docusaurus/preset-classic',
         {
+          docs: {
+            path: 'docs',
+            sidebarPath: 'sidebars.js',
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
+          },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
           },
