@@ -2,7 +2,7 @@
 id: eventos-javascript
 title: Eventos no JavaScript
 tags:
-  - eventos javascript
+  - eventos-javascript
   - javascript
   - content
   - pt-BR
