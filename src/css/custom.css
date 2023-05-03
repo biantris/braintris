@@ -44,6 +44,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-html[data-theme='dark'] footer {
+/* html[data-theme='dark'] footer {
   background-color: #242526;
-}
+} */

@@ -1,6 +1,9 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 const locales = ['pt-BR', 'en'];
 
 const localeConfigs = {
@@ -33,7 +36,12 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         // blog: {
         //   showReadingTime: true,
@@ -46,6 +54,16 @@ module.exports = {
         },
       },
     ],
+  ],
+
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
   ],
 
   plugins: [
@@ -176,12 +194,6 @@ module.exports = {
       [
         '@docusaurus/preset-classic',
         {
-          docs: {
-            path: 'docs',
-            sidebarPath: 'sidebars.js',
-            showLastUpdateAuthor: true,
-            showLastUpdateTime: true,
-          },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
           },
