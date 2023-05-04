@@ -14,7 +14,7 @@
     "clsx": "^1.2.1",
     "core-js": "^3.30.1",
     "dotenv": "^16.0.3",
-    "hast-util-is-element": "1.1.0",
+    "hast-util-is-element": "2.1.3",
     "mdx-embed": "^1.1.2",
     "mdx-mermaid": "^1.3.2",
     "mobx": "^6.7.0",
