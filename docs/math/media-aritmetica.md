@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: about
+id: media-artmetica
 title: Média Aritmética
 tags:
   - math
