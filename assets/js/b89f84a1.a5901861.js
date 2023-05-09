@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[3289],{9919:i=>{i.exports=JSON.parse('{"label":"life","permalink":"/braintris/docs/tags/life","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"life","title":"Life","description":"- Speak it like you\'re playing a video game","permalink":"/braintris/docs/analyzes-perceptions"}]}')}}]);
