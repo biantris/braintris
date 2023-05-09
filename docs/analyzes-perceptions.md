@@ -1,8 +1,8 @@
 ---
-id: apal
-title: Apal
+id: life
+title: Life
 tags:
-  - apal
+  - life
   - content
   - articles
 ---
