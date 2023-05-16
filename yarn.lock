@@ -2583,6 +2583,13 @@
   dependencies:
     regenerator-runtime "^0.13.10"
 
+"@babel/runtime@^7.21.0":
+  version "7.21.5"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.21.5.tgz#8492dddda9644ae3bda3b45eabe87382caee7200"
+  integrity sha512-8jI69toZqqcsnqGGqwGS4Qb1VwLOEp4hz+CXPywcvjs60u3B4Pom/U/7rm4W8tMOYEB+E9wgD0mW1l3r8qlI9Q==
+  dependencies:
+    regenerator-runtime "^0.13.11"
+
 "@babel/template@^7.12.7", "@babel/template@^7.18.10":
   version "7.18.10"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.18.10.tgz#6f9134835970d1dbf0835c0d100c9f38de0c5e71"
@@ -3574,12 +3581,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tereza-tech/docusaurus-plugin-zettel@^0.0.20":
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.20.tgz#53a65710a0e95e36fc49131756a3ae7aaa8d3271"
-  integrity sha512-9Bag2vywZvp5f7MI73p0TlkohFoEdbk5h6ky435s51wgP5wdYVeQ8h3EgbIgMO67cffGBlw+PDa8pdYgnqZyVA==
+"@tereza-tech/docusaurus-plugin-zettel@^0.0.21":
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/docusaurus-plugin-zettel/-/docusaurus-plugin-zettel-0.0.21.tgz#96f5d451bc563466ef0d4c785a0fb721e51c33c3"
+  integrity sha512-FhTDqqM6DCvTisiLYiYvG2WAJbSaqx8q7I6WmuC4yZtWhGxFoSVEymGdz2DsM3al01GatFZY9ksWRzGHosl6zQ==
   dependencies:
-    "@tereza-tech/zettel" "^0.23.1"
+    "@tereza-tech/zettel" "^0.23.2"
 
 "@tereza-tech/react-zettel@^0.2.0":
   version "0.2.0"
@@ -3590,15 +3597,15 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.23.1":
-  version "0.23.1"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.23.1.tgz#7e5b58c759421d53be36fd199008173a43e45ba2"
-  integrity sha512-X60yEjLZ/INHq1OTkjLnBvBYRakgJyY1JmP8zxS4sjN/66RfXu/gVm1a4NyPtCz8IXVaBM17lExQDJk6tE8cGg==
+"@tereza-tech/zettel@^0.23.2":
+  version "0.23.2"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.23.2.tgz#e4078c5c5d32b931db285b0f84d0ca57e98b2ab0"
+  integrity sha512-V7yGBVSCkQQmg7O52hkDfHxo1iW/TMYX1Kjk1TsCUWBjMQ6Wuu+1HXW6zKuZvUnumOzg4vLDUgxvbGCZyLGbiQ==
   dependencies:
     "@aws-sdk/client-s3" "^3.304.0"
-    "@ttoss/config" "^1.29.5"
+    "@ttoss/config" "^1.30.0"
     change-case "^4.1.2"
-    date-fns "^2.29.3"
+    date-fns "^2.30.0"
     gray-matter "^4.0.3"
     reading-time "^1.5.0"
     title-case "^3.0.3"
@@ -3608,10 +3615,10 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@ttoss/config@^1.29.5":
-  version "1.29.5"
-  resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.29.5.tgz#d6ebf755a8979b24034350d08da71a40e810d3ec"
-  integrity sha512-2v6YbP6oVODJrp9KUZaETih+0EcjYrAzsQnExlEtvhbVFTh0NLPN0GLWshJNMdnx+E/uFIsbvvSiNalYfko08A==
+"@ttoss/config@^1.30.0":
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/@ttoss/config/-/config-1.30.0.tgz#3c1461789f2fb6d58e4da2435d40f03baf80065c"
+  integrity sha512-pPN5IHYJf2hotfHOvA2o5N86udeGIfMZX+vAbv1UwCT6mBONpC+xV/sAMZx3eucBHdJ0VxiT5FPWeXMxjHThlg==
   dependencies:
     "@babel/core" "^7.21.4"
     "@babel/preset-env" "^7.21.4"
@@ -5653,10 +5660,12 @@ data-joint@^1.2:
   dependencies:
     index-array-by "^1.3.3"
 
-date-fns@^2.29.3:
-  version "2.29.3"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.29.3.tgz#27402d2fc67eb442b511b70bbdf98e6411cd68a8"
-  integrity sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==
+date-fns@^2.30.0:
+  version "2.30.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.30.0.tgz#f367e644839ff57894ec6ac480de40cae4b0f4d0"
+  integrity sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw==
+  dependencies:
+    "@babel/runtime" "^7.21.0"
 
 debounce@^1.2.1:
   version "1.2.1"
@@ -9901,7 +9910,7 @@ regenerate@^1.4.2:
   resolved "https://registry.yarnpkg.com/regenerate/-/regenerate-1.4.2.tgz#b9346d8827e8f5a32f7ba29637d398b69014848a"
   integrity sha512-zrceR/XhGYU/d/opr2EKO7aRHUeiBI8qjtfHqADTwZd6Szfy16la6kqD0MIUs5z5hx6AaKa+PixpPrR289+I0A==
 
-regenerator-runtime@^0.13.10:
+regenerator-runtime@^0.13.10, regenerator-runtime@^0.13.11:
   version "0.13.11"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz#f6dca3e7ceec20590d07ada785636a90cdca17f9"
   integrity sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==
