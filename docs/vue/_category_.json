@@ -1,8 +1,8 @@
 {
-  "label": "Relay",
+  "label": "Vue",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Content about Relay"
+    "description": "Content about Vue.js"
   }
 }
