@@ -24,13 +24,13 @@ A principal vantagem de usar uma "store" é a capacidade de compartilhar dados d
 - Visualização em um componente simples
 
 <div align="center" id="top"> 
-    <img width="500" src="https://github.com/biantris/braintris/blob/main/static/img/vuex-store.png" />
+    <img width="500" src="https://raw.githubusercontent.com/biantris/braintris/main/static/img/vuex-store.png" />
 </div>
 
 - Visualização em um projeto completo
 
 <div align="center" id="top"> 
-    <img width="500" src="https://github.com/biantris/braintris/blob/main/static/img/vuex.png" />
+    <img width="500" src="https://raw.githubusercontent.com/biantris/braintris/main/static/img/vuex.png" />
 </div>
 
 ### Estado 
