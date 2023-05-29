@@ -9,6 +9,10 @@ tags:
   - pt-PR
 ---
 
+### O que é?
+
+O Vuex é um padrão de gerenciamento de estado + biblioteca para aplicações Vue.js. Ele serve como um store centralizado para todos os componentes em uma aplicação, com regras garantindo que o estado só possa ser mutado de forma previsível
+
 ### Store
 
 No Vue.js, "store" refere-se a um conceito de gerenciamento de estado centralizado. O Vue.js não possui uma implementação oficial de uma "store", mas é comumente utilizado juntamente com bibliotecas de gerenciamento de estado, como o Vuex.
@@ -20,13 +24,13 @@ A principal vantagem de usar uma "store" é a capacidade de compartilhar dados d
 - Visualização em um componente simples
 
 <div align="center" id="top"> 
-    <img width="500" src="../img/vuex-store.png" />
+    <img width="500" src="https://github.com/biantris/braintris/blob/main/static/img/vuex-store.png" />
 </div>
 
 - Visualização em um projeto completo
 
 <div align="center" id="top"> 
-    <img width="500" src="../img/vuex.png" />
+    <img width="500" src="https://github.com/biantris/braintris/blob/main/static/img/vuex.png" />
 </div>
 
 ### Estado 
