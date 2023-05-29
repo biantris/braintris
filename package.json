@@ -23,7 +23,7 @@
     "react-embed": "^3.6.0",
     "redoc": "2.0.0",
     "redocusaurus": "1.6.2",
-    "rehype-katex": "5",
+    "rehype-katex": "6",
     "remark-math": "3",
     "styled-components": "^5.3.11"
   },
