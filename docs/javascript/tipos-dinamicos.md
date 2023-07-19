@@ -21,9 +21,9 @@ tags:
     let climate: String=""
     ```
 
-`let climate = true`  // boolean
+- `let climate = true`  // boolean
 
-`climate = " "`  // string
+- `climate = " "`  // string
 
 O tipo das variáveis foi mudado ou seja, é uma linguagem dinâmica
 
