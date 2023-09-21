@@ -22,7 +22,7 @@
     "react-dom": "18.2.0",
     "react-embed": "^3.7.0",
     "redoc": "2.1.2",
-    "redocusaurus": "1.6.3",
+    "redocusaurus": "1.6.4",
     "rehype-katex": "5",
     "remark-math": "3",
     "styled-components": "^5.3.11"
