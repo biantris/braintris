@@ -41,7 +41,7 @@ I have been working for 3~ years with `JavaScript`, `TypeScript`, `ReactJS`, `Ne
     <br/>
     <b>Description</b>: Full-stack development and maintenance for audience and communication systems and applications for the Brazilian System of the Globo Television Network.
     <br/>
-    <b>Competencies</b>: JavaScript · TypeScript· React.js · Vue.js · Node.js · PostgreSQL · Amazon Web Services
+    <b>Competencies</b>: JavaScript · TypeScript· React.js · Vue.js · Node.js · PostgreSQL · Amazon Web Services · Python · Django
 </details>
 
 ### Previously
