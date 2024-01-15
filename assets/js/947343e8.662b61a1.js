@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[8746],{8395:e=>{e.exports=JSON.parse('{"label":"next-js","permalink":"/braintris/docs/tags/next-js","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"nextjs/next-101","title":"Next 101","description":"\ud83c\udf0a Deep dive NextJS","permalink":"/braintris/docs/nextjs/next-101"}]}')}}]);
