@@ -23,11 +23,11 @@ I have been working for 3~ years with `JavaScript`, `TypeScript`, `ReactJS`, `Ne
 
 ### My Links
 
-- [Github](https://github.com/biantris)
-- [Twitter](https://twitter.com/biantris_)
-- [LinkedIn](https://www.linkedin.com/in/beatriiz-oliveiraa/)
+- [github](https://github.com/biantris)
+- [twitter](https://twitter.com/biantris_)
+- [linkedIn](https://www.linkedin.com/in/beatriiz-oliveiraa/)
 - [dev.to](https://dev.to/beatrizoliveira)
-- [Medium](https://medium.com/@beatrizoliveiraa)
+- [medium](https://medium.com/@beatrizoliveiraa)
 
 ### Currently
 
