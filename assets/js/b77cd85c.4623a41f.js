@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[628],{7017:s=>{s.exports=JSON.parse('{"label":"books","permalink":"/braintris/docs/tags/books","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"books/books","title":"2024","description":"- O ato criativo: Uma forma de ser","permalink":"/braintris/docs/books/books"}]}')}}]);
