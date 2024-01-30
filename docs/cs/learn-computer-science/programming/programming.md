@@ -10,8 +10,12 @@ tags:
   - en
 ---
 
-#### SICP: 
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+#### Books: 
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (SICP)
+  - 3 the first 3 chapters
+    - [ ] Chapter 1
+    - [ ] Chapter 2
+    - [ ] Chapter 3
 
 #### Video lesson:
 
