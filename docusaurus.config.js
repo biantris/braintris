@@ -132,6 +132,7 @@ module.exports = {
         },
       ],
     },
+    image: 'img/braintris.png',
     footer: {
       style: 'dark',
       links: [
