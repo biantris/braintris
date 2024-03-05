@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[2816],{6362:e=>{e.exports=JSON.parse('{"label":"flow","permalink":"/braintris/en/docs/tags/flow","allTagsPath":"/braintris/en/docs/tags","count":1,"items":[{"id":"personal-flow-indexer","title":"Personal Flow Indexer","description":"","permalink":"/braintris/en/docs/personal-flow-indexer"}]}')}}]);

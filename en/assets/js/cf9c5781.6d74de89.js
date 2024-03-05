@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[309],{3146:s=>{s.exports=JSON.parse('{"label":"sicp","permalink":"/braintris/en/docs/tags/sicp","allTagsPath":"/braintris/en/docs/tags","count":1,"items":[{"id":"cs/programming","title":"Programming","description":"SICP:","permalink":"/braintris/en/docs/cs/programming"}],"unlisted":false}')}}]);

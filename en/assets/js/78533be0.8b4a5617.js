@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[8438],{8267:e=>{e.exports=JSON.parse('{"label":"ledger","permalink":"/braintris/en/docs/tags/ledger","allTagsPath":"/braintris/en/docs/tags","count":1,"items":[{"id":"ledger","title":"Ledger","description":"The Accounting Equation","permalink":"/braintris/en/docs/ledger"}]}')}}]);

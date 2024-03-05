@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[5839],{1352:s=>{s.exports=JSON.parse('{"label":"vuex","permalink":"/braintris/docs/tags/vuex","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"javascript/vue/vuex","title":"Vuex","description":"O que \xe9?","permalink":"/braintris/docs/javascript/vue/vuex"}],"unlisted":false}')}}]);

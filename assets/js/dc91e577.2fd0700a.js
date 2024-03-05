@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[410],{1281:s=>{s.exports=JSON.parse('{"label":"issues","permalink":"/braintris/docs/tags/issues","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"issues","title":"Issues","description":"- I was editting the wrong filename...","permalink":"/braintris/docs/issues"}]}')}}]);
