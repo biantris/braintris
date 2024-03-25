@@ -1,3 +1,5 @@
+import { TwitterTweetEmbed } from 'react-twitter-embed';
+
 # Chapter 1
 
 ## Building Abstractions with Procedures
@@ -6,11 +8,19 @@ intro:
 
 ><b>“Pessoas criam programas para direcionar processos”</b>
 
-[https://twitter.com/biantris_/status/1541520630474063873?s=20&t=TQS7-1AsX--h_RfZWK-hUA](https://twitter.com/biantris_/status/1541520630474063873?s=20&t=TQS7-1AsX--h_RfZWK-hUA)
+<div align="center">
+<TwitterTweetEmbed
+  tweetId={'1541520630474063873'}
+/>
 
-[https://twitter.com/biantris_/status/1542131873140318208?s=20&t=CWaCrwrkVOkvJmNZwkvbIQ](https://twitter.com/biantris_/status/1542131873140318208?s=20&t=CWaCrwrkVOkvJmNZwkvbIQ)
+<TwitterTweetEmbed
+  tweetId={'1542131873140318208'}
+/>
 
-[https://twitter.com/biantris_/status/1542132956420005889?s=20&t=CWaCrwrkVOkvJmNZwkvbIQ](https://twitter.com/biantris_/status/1542132956420005889?s=20&t=CWaCrwrkVOkvJmNZwkvbIQ)
+<TwitterTweetEmbed
+  tweetId={'1542132956420005889'}
+/>
+</div>
 
 ### Programming in Lisp:
 
