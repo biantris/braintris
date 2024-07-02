@@ -23,7 +23,7 @@
     "react-embed": "^3.7.0",
     "react-twitter-embed": "^4.0.4",
     "redoc": "2.1.5",
-    "redocusaurus": "2.1.0",
+    "redocusaurus": "2.1.1",
     "rehype-katex": "7",
     "remark-math": "6",
     "styled-components": "^6.1.11"
