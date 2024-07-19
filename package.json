@@ -26,7 +26,7 @@
     "redocusaurus": "2.1.1",
     "rehype-katex": "7",
     "remark-math": "6",
-    "styled-components": "^6.1.11"
+    "styled-components": "^6.1.12"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^7.16.1",
