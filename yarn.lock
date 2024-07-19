@@ -10688,10 +10688,10 @@ mobx-react@^9.1.1:
   dependencies:
     mobx-react-lite "^4.0.7"
 
-mobx@^6.12.4, mobx@^6.12.5:
-  version "6.12.5"
-  resolved "https://registry.yarnpkg.com/mobx/-/mobx-6.12.5.tgz#ed2e4312bc9dbe3d9ecd063c70a5ba9e7c2b823b"
-  integrity sha512-xRq2tyY6unAec0ItlsrgoCuxrWXLoIkM5cGPuerm/0nX/CI9FxAO6ttfRYfFa+B5Yz51d59IfKy0mJwxOEwqzQ==
+mobx@^6.12.4, mobx@^6.13.1:
+  version "6.13.1"
+  resolved "https://registry.yarnpkg.com/mobx/-/mobx-6.13.1.tgz#76c41aa675199f75b84a257e4bec8ff839e33259"
+  integrity sha512-ekLRxgjWJr8hVxj9ZKuClPwM/iHckx3euIJ3Np7zLVNtqJvfbbq7l370W/98C8EabdQ1pB5Jd3BbDWxJPNnaOg==
 
 mri@^1.1.0:
   version "1.2.0"
