@@ -42,7 +42,7 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-storybook": "^0.8.0",
     "https-browserify": "^1.0.0",
-    "husky": "^9.1.1",
+    "husky": "^9.1.4",
     "lint-staged": "^15.2.7",
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
