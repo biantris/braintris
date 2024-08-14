@@ -43,7 +43,7 @@
     "eslint-plugin-storybook": "^0.8.0",
     "https-browserify": "^1.0.0",
     "husky": "^9.1.4",
-    "lint-staged": "^15.2.8",
+    "lint-staged": "^15.2.9",
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
     "prettier": "^3.3.3",
