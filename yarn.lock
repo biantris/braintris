@@ -14492,12 +14492,11 @@ redoc@2.1.5:
     swagger2openapi "^7.0.8"
     url-template "^2.0.8"
 
-redoc@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/redoc/-/redoc-2.2.0.tgz#1043812696683f23e4b0fbe66fb50236fbe8b5bb"
-  integrity sha512-52rz/xJtpUBc3Y/GAkaX03czKhQXTxoU7WnkXNzRLuGwiGb/iEO4OgwcgQqtwHWrYNaZXTyqZ4MAVXpi/e1gAg==
+redoc@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/redoc/-/redoc-2.3.0.tgz#8701d589cbc5b814da28df6681701da46d409e05"
+  integrity sha512-v9+8ic/jF3CbrBR/N78BDYDkngszEjOfoBWIa9ES4J0c3hysWLIibn5UeBh9SW6EREoNuKeuIZDRlBKdKnBXwQ==
   dependencies:
-    "@cfaester/enzyme-adapter-react-18" "^0.8.0"
     "@redocly/openapi-core" "^1.4.0"
     classnames "^2.3.2"
     decko "^1.2.0"
