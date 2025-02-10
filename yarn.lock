@@ -14483,10 +14483,10 @@ redoc@2.1.5:
     swagger2openapi "^7.0.8"
     url-template "^2.0.8"
 
-redoc@2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/redoc/-/redoc-2.3.0.tgz#8701d589cbc5b814da28df6681701da46d409e05"
-  integrity sha512-v9+8ic/jF3CbrBR/N78BDYDkngszEjOfoBWIa9ES4J0c3hysWLIibn5UeBh9SW6EREoNuKeuIZDRlBKdKnBXwQ==
+redoc@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/redoc/-/redoc-2.4.0.tgz#4a978c91bfec426038001b8b6c26d1ebb7c60bb4"
+  integrity sha512-rFlfzFVWS9XJ6aYAs/bHnLhHP5FQEhwAHDBVgwb9L2FqDQ8Hu8rQ1G84iwaWXxZfPP9UWn7JdWkxI6MXr2ZDjw==
   dependencies:
     "@redocly/openapi-core" "^1.4.0"
     classnames "^2.3.2"
