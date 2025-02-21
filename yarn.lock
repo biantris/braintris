@@ -8700,10 +8700,10 @@ eslint-import-resolver-node@^0.3.9:
     is-core-module "^2.13.0"
     resolve "^1.22.4"
 
-eslint-import-resolver-typescript@^3.8.1:
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-3.8.1.tgz#43aab1e51080eb157d4a35fb3db9d737ea79e2f6"
-  integrity sha512-qw5TPA12HTmb9CkcuiNrFtwhM1ae2FWysLeRrTbQ+/JKS///gbL3fQ5LRhAZnzkcqkScOvkB5Y5o+xgyQz1VVg==
+eslint-import-resolver-typescript@^3.8.3:
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-3.8.3.tgz#1721a1e4417e57a8fe6bf9463d0db8e220285eef"
+  integrity sha512-A0bu4Ks2QqDWNpeEgTQMPTngaMhuDu4yv6xpftBMAf+1ziXnpx+eSR1WRfoPTe2BAiAjHFZ7kSNx1fvr5g5pmQ==
   dependencies:
     "@nolyfill/is-core-module" "1.0.39"
     debug "^4.3.7"
@@ -8711,7 +8711,7 @@ eslint-import-resolver-typescript@^3.8.1:
     get-tsconfig "^4.10.0"
     is-bun-module "^1.0.2"
     stable-hash "^0.0.4"
-    tinyglobby "^0.2.10"
+    tinyglobby "^0.2.12"
 
 eslint-module-utils@^2.12.0:
   version "2.12.0"
@@ -9209,7 +9209,7 @@ fd-slicer@~1.1.0:
   dependencies:
     pend "~1.2.0"
 
-fdir@^6.4.2:
+fdir@^6.4.3:
   version "6.4.3"
   resolved "https://registry.yarnpkg.com/fdir/-/fdir-6.4.3.tgz#011cdacf837eca9b811c89dbb902df714273db72"
   integrity sha512-PMXmW2y1hDDfTSRc9gaXIuCCRpuoz3Kaz8cUelp3smouvfT632ozg2vrT6lJsHKKOF59YLbOGfAWGUcKEfRMQw==
@@ -16072,12 +16072,12 @@ tinycolor2@1, tinycolor2@^1.6.0:
   resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.6.0.tgz#f98007460169b0263b97072c5ae92484ce02d09e"
   integrity sha512-XPaBkWQJdsf3pLKJV9p4qN/S+fm2Oj8AIPo1BTUhg5oxkvm9+SVEGFdhyOz7tTdUTfvxMiAs4sp6/eZO2Ew+pw==
 
-tinyglobby@^0.2.10:
-  version "0.2.10"
-  resolved "https://registry.yarnpkg.com/tinyglobby/-/tinyglobby-0.2.10.tgz#e712cf2dc9b95a1f5c5bbd159720e15833977a0f"
-  integrity sha512-Zc+8eJlFMvgatPZTl6A9L/yht8QqdmUNtURHaKZLmKBE12hNPSrqNkUp2cs3M/UKmNVVAMFQYSjYIVHDjW5zew==
+tinyglobby@^0.2.12:
+  version "0.2.12"
+  resolved "https://registry.yarnpkg.com/tinyglobby/-/tinyglobby-0.2.12.tgz#ac941a42e0c5773bd0b5d08f32de82e74a1a61b5"
+  integrity sha512-qkf4trmKSIiMTs/E63cxH+ojC2unam7rJ0WrauAzpT3ECNTxGRMlaXxVbfxMUC/w0LaYk6jQ4y/nGR9uBO3tww==
   dependencies:
-    fdir "^6.4.2"
+    fdir "^6.4.3"
     picomatch "^4.0.2"
 
 title-case@^3.0.3:
