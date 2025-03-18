@@ -8787,10 +8787,10 @@ eslint-import-resolver-node@^0.3.9:
     is-core-module "^2.13.0"
     resolve "^1.22.4"
 
-eslint-import-resolver-typescript@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-4.0.0.tgz#3c5fe80059fb235f098b3fb08a949152182d8f4f"
-  integrity sha512-dnZZVh4I0yYrKDwT+G9+QvatOjArurtwZS3n2i5SKfFYiy+669z2wkR8ZI5gh8yUGJYH86kUhp0FkSlKerl02w==
+eslint-import-resolver-typescript@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-4.1.1.tgz#56c34f436377c959ebbd6e88740e37cfd5d6dca8"
+  integrity sha512-91As8PwH6xjPwndAbvhTuZ3DUfdl4HttocWRyaLOd5T4uUo6km8EDO7Sve4jzH50V1wbgql2nOFbE3GGfARJag==
   dependencies:
     debug "^4.4.0"
     get-tsconfig "^4.10.0"
