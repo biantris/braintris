@@ -8236,18 +8236,18 @@ doctrine@^2.1.0:
   dependencies:
     esutils "^2.0.2"
 
-docusaurus-plugin-redoc@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/docusaurus-plugin-redoc/-/docusaurus-plugin-redoc-2.2.1.tgz#9c9ec63cf1c31151d7c3cbdcc01864563897f1ee"
-  integrity sha512-zwP5RfTLH3C4fAzCbOzJ0UJFNQ7rT1CU0C5rAWDiB86m9p2fKWS05NHeDdGE+tOsOjzEBBMSky8ooEFzo78yXA==
+docusaurus-plugin-redoc@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/docusaurus-plugin-redoc/-/docusaurus-plugin-redoc-2.2.2.tgz#d208a52756a2e7bb84d0d35c710c857c168ebc53"
+  integrity sha512-hS/h6SYwBV+5Hihe98RPbrHp3j276yMSVaXyDjkLz/vNZJ30661uDWfb1LPqZn8nCC86lxbtnwuJgnaEM8DtLw==
   dependencies:
     "@redocly/openapi-core" "1.16.0"
     redoc "2.1.5"
 
-docusaurus-theme-redoc@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/docusaurus-theme-redoc/-/docusaurus-theme-redoc-2.2.1.tgz#c8f9b05023735a5f07faa2471be5e04fdaf209f2"
-  integrity sha512-QO9ZU4/vWJTuCYiE4S14u4xEZEOHRNCqdT4wvPma0J8YII+z1kNSk2IIDSJDFMVHVZbOVc0KsUh7YpWrCh54nw==
+docusaurus-theme-redoc@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/docusaurus-theme-redoc/-/docusaurus-theme-redoc-2.2.2.tgz#7e516427c6252a00a23f318904e0e11a576928aa"
+  integrity sha512-VulnYwqwxWoCOCBjICIL9UDHojkEoerAvyrLX2DJPzijnjHrJgrYz1Rb2ekqm0rOhN90NiDUSnCzeghdSRhckw==
   dependencies:
     "@redocly/openapi-core" "1.16.0"
     clsx "^1.2.1"
@@ -14612,13 +14612,13 @@ redoc@2.4.0:
     swagger2openapi "^7.0.8"
     url-template "^2.0.8"
 
-redocusaurus@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/redocusaurus/-/redocusaurus-2.2.1.tgz#2b3c7df8d6c6749caaa40b9b72e5a9f1323db3eb"
-  integrity sha512-eYk807UrZ2/gWX3DoK/NxnmVNCeOuJI9o7rsUwDFkkVMIRDEiwpF/qy/5tSLKQvn7pqmHNxFONqsAozzoDK7Fw==
+redocusaurus@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/redocusaurus/-/redocusaurus-2.2.2.tgz#2fc32ceec0e9e04f436d98dde36ab89fa78f9f23"
+  integrity sha512-s+Pqvbt7Q28zK665rvTnyZJwH8VaZaITTQA1S9HxTws9x88fWdOtrUMhZVrhGseInDHMlAQ4XOrq5gn8BOS/5w==
   dependencies:
-    docusaurus-plugin-redoc "2.2.1"
-    docusaurus-theme-redoc "2.2.1"
+    docusaurus-plugin-redoc "2.2.2"
+    docusaurus-theme-redoc "2.2.2"
 
 reflect.getprototypeof@^1.0.6, reflect.getprototypeof@^1.0.8, reflect.getprototypeof@^1.0.9:
   version "1.0.9"
