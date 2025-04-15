@@ -8332,10 +8332,10 @@ domhandler@^5.0.2, domhandler@^5.0.3:
   dependencies:
     domelementtype "^2.3.0"
 
-dompurify@^3.0.6:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.2.4.tgz#af5a5a11407524431456cf18836c55d13441cd8e"
-  integrity sha512-ysFSFEDVduQpyhzAob/kkuJjf5zWkZD8/A9ywSp1byueyuCfHamrCBa14/Oc2iiB0e51B+NpxSl5gmzn+Ms/mg==
+dompurify@^3.0.6, dompurify@^3.2.4:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.2.5.tgz#11b108656a5fb72b24d916df17a1421663d7129c"
+  integrity sha512-mLPd29uoRe9HpvwP2TxClGQBzGXeEC/we/q+bFlmPPmj2p2Ugl3r6ATu/UU1v77DXNcehiBg9zsr1dREyA/dJQ==
   optionalDependencies:
     "@types/trusted-types" "^2.0.7"
 
@@ -14601,6 +14601,33 @@ redoc@2.4.0:
     classnames "^2.3.2"
     decko "^1.2.0"
     dompurify "^3.0.6"
+    eventemitter3 "^5.0.1"
+    json-pointer "^0.6.2"
+    lunr "^2.3.9"
+    mark.js "^8.11.1"
+    marked "^4.3.0"
+    mobx-react "^9.1.1"
+    openapi-sampler "^1.5.0"
+    path-browserify "^1.0.1"
+    perfect-scrollbar "^1.5.5"
+    polished "^4.2.2"
+    prismjs "^1.29.0"
+    prop-types "^15.8.1"
+    react-tabs "^6.0.2"
+    slugify "~1.4.7"
+    stickyfill "^1.1.1"
+    swagger2openapi "^7.0.8"
+    url-template "^2.0.8"
+
+redoc@2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/redoc/-/redoc-2.5.0.tgz#6b44c55f705e13a57272c5a227cc3fd0d1a06495"
+  integrity sha512-NpYsOZ1PD9qFdjbLVBZJWptqE+4Y6TkUuvEOqPUmoH7AKOmPcE+hYjotLxQNTqVoWL4z0T2uxILmcc8JGDci+Q==
+  dependencies:
+    "@redocly/openapi-core" "^1.4.0"
+    classnames "^2.3.2"
+    decko "^1.2.0"
+    dompurify "^3.2.4"
     eventemitter3 "^5.0.1"
     json-pointer "^0.6.2"
     lunr "^2.3.9"
