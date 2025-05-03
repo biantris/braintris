@@ -17,15 +17,16 @@ Hi, my name is Beatriz Oliveira a.k.a [biantris](https://twitter.com/biantris_).
 and practice a lot the idea with [Learn in Public](https://www.swyx.io/learn-in-public/) in sharing my
 knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
-I have been working for 3~ years with `JavaScript`, `TypeScript`, `ReactJS`, `NextJS` and the related ecosystem. I also have experience developing `REST APIs` in the `NodeJS` ecosystem, with databases like `MongoDB` and `GraphQL` data query language using its `Relay` framework, focusing on products aligned with user needs.
+I have been working for 4~ years with `JavaScript`, `TypeScript`, `VueJS`, `ReactJS`, `NextJS` and the related ecosystem. I also have experience developing `REST APIs` in the `NodeJS` ecosystem, with databases like `MongoDB` and `GraphQL` data query language using its `Relay` framework, focusing on products aligned with user needs.
 
 `UI&UX` Designer with experience in mobile interfaces, desktops, posts, and systems, using `Figma` as the principal tool.
 
 ### My Links
 
+- [cv](https://www.cvkeep.com/cv/266e7beb0afd30a7b2199fd713d7684b)
 - [github](https://github.com/biantris)
 - [twitter](https://twitter.com/biantris_)
-- [linkedIn](https://www.linkedin.com/in/beatriiz-oliveiraa/)
+- [linkedIn](https://www.linkedin.com/in/biantris/)
 - [dev.to](https://dev.to/beatrizoliveira)
 - [medium](https://medium.com/@beatrizoliveiraa)
 
@@ -33,18 +34,31 @@ I have been working for 3~ years with `JavaScript`, `TypeScript`, `ReactJS`, `Ne
 
 <details open>
     <summary>
+        <b>Software Engineer - Globo </b>
+    </summary>
+    <b>Link</b>: <a href="https://www.linkedin.com/company/globo/" target="_blank">globo</a>
+    
+    <b>Time</b>: jul 2024 - the moment
+    
+    <b>Description</b>: Full-stack development and maintenance for audience and communication systems and applications for the Brazilian System of the Globo Television Network.
+    
+    <b>Competencies</b>: JavaScript · TypeScript · Vue · Node.js · Python · Django · Docker · GCP 
+</details>
+
+### Previously
+
+<details open>
+    <summary>
         <b>Full Stack Developer - Storm Group | Globo </b>
     </summary>
     <b>Link</b>: <a href="https://stormgroup.com.br/" target="_blank">stormgroup</a>
     
-    <b>Time</b>: april 2023 - the moment
+    <b>Time</b>: april 2023 - jul 2024 - 1 year 4 months
     
     <b>Description</b>: Full-stack development and maintenance for audience and communication systems and applications for the Brazilian System of the Globo Television Network.
     
     <b>Competencies</b>: JavaScript · TypeScript· React.js · Vue.js · Node.js · PostgreSQL · Amazon Web Services · Python · Django
 </details>
-
-### Previously
 
 <details open>
     <summary>
