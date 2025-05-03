@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[5726],{1909:s=>{s.exports=JSON.parse('{"tag":{"label":"lip","permalink":"/braintris/docs/tags/lip","allTagsPath":"/braintris/docs/tags","count":1,"items":[{"id":"talks","title":"Talks","description":"- Learn in Public (Sep 16, 2022)","permalink":"/braintris/docs/talks"}],"unlisted":false}}')}}]);
