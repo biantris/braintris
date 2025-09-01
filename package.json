@@ -7,7 +7,7 @@
     "@docusaurus/plugin-content-docs": "^3.1.1",
     "@docusaurus/plugin-google-gtag": "^3.1.1",
     "@docusaurus/preset-classic": "^3.8.1",
-    "@mdx-js/react": "^3.1.0",
+    "@mdx-js/react": "^3.1.1",
     "@tereza-tech/docusaurus-plugin-zettel": "^0.2.0",
     "@tereza-tech/react-zettel": "^0.2.0",
     "chalk": "^5.5.0",
