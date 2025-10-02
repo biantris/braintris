@@ -5,7 +5,7 @@
     "@cmfcmf/docusaurus-search-local": "1.2.0",
     "@docusaurus/core": "^3.1.1",
     "@docusaurus/plugin-content-docs": "^3.1.1",
-    "@docusaurus/plugin-google-gtag": "^3.1.1",
+    "@docusaurus/plugin-google-gtag": "^3.9.1",
     "@docusaurus/preset-classic": "^3.8.1",
     "@mdx-js/react": "^3.1.1",
     "@tereza-tech/docusaurus-plugin-zettel": "^0.2.0",
