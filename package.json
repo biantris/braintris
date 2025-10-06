@@ -39,7 +39,7 @@
     "eslint-plugin-no-only-tests": "^3.3.0",
     "eslint-plugin-prettier": "^5.5.3",
     "eslint-plugin-react": "^7.37.5",
-    "eslint-plugin-react-hooks": "^6.1.0",
+    "eslint-plugin-react-hooks": "^6.1.1",
     "eslint-plugin-storybook": "^9.0.7",
     "https-browserify": "^1.0.0",
     "husky": "^9.1.7",
