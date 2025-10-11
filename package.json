@@ -12,7 +12,7 @@
     "@tereza-tech/react-zettel": "^0.2.0",
     "chalk": "^5.6.2",
     "clsx": "^2.1.1",
-    "core-js": "^3.45.1",
+    "core-js": "^3.46.0",
     "dotenv": "^17.2.3",
     "hast-util-is-element": "3.0.0",
     "mdx-embed": "^1.1.2",
