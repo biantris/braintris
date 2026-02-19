@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[6078],{3032:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-zettel","id":"default"}')}}]);
