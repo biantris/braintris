@@ -21,12 +21,3 @@ tags:
 [**restris**](https://github.com/biantris/restris): Functional Backend implementation of REST API with NodeJS(KoaJS) MongoDB and Jest Tests
  
 [**asktris**](https://github.com/biantris/asktris): My Personal Fullstack Playground
-<a href="https://github.com/biantris/asktris">
- <img src="https://user-images.githubusercontent.com/65451957/214925304-9304d9dd-5150-4401-9feb-df39e179454f.png"/>
- </a>
-
-### Working On
-- [seujardineiro 🌱](https://www.seujardineiro.com/): Notification and monitoring platform that helps you manage the care of your plants
- <a href="https://www.seujardineiro.com/">
- <img src="https://biantris.github.io/braintris/img/seu-jardineiro-cover.png"/>
- </a>

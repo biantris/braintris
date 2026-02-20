@@ -7,25 +7,13 @@ tags:
   - pt-BR
 ---
 
-import Tweet from '@site/src/components/Tweet';
+import { TwitterTweetEmbed } from 'react-twitter-embed';
 
 Acontece quando uma função pode chamar a si própria. Todo cuidado é pouco ao fazer funções recursivas.
 A primeira coisa a se providenciar é um critério de parada. Este vai determinar quando a função deverá parar de chamar a si mesma. Isso impede que a função se chame infinitas vezes.
 
 Veja mais em:
 
-<a href="https://t.co/FyDFEXcH37">
-<Tweet
-  url= 'https://twitter.com/biantris_/status/1412039049246875653?ref_src=twsrc%5Etfw'
-  handle = 'biantris_'
-  name= 'Beatriz Oliveira'
-  date= 'July 5, 2021'
-  avatar='https://pbs.twimg.com/profile_images/1512784290005884933/rj8-BoL7_400x400.jpg'
-  content =
-    'A function capable of calling itself is called a recursive function.
-    A function that calculates the factorial of an integer n is a good example
-    of a recursive function: 🧵'
->
-</Tweet>
-  <img src="https://pbs.twimg.com/media/E5iPV1DXMAAFLtG?format=jpg&name=medium"/>
-</a>
+<TwitterTweetEmbed
+  tweetId={'1412039049246875653'}
+/>
