@@ -1,8 +1,10 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
-const math = require('remark-math');
-const katex = require('rehype-katex');
+const mathMod = require('remark-math');
+const katexMod = require('rehype-katex');
+const math = mathMod.default ?? mathMod;
+const katex = katexMod.default ?? katexMod;
 
 const locales = ['pt-BR', 'en'];
 
@@ -21,14 +23,22 @@ module.exports = {
     locales,
     localeConfigs,
   },
+
   title: 'braintris',
   tagline: `Here that contain everything I've created and studied`,
-  url: 'https://braintris.github.io', //wip
+  url: 'https://braintris.github.io', // wip
   baseUrl: '/braintris/',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+
   favicon: 'img/icons/favicon.ico',
   organizationName: 'biantris',
   projectName: 'braintris',
+
   onBrokenLinks: 'log',
 
   presets: [
@@ -49,6 +59,9 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+
+        // ⚠️ Em Docusaurus v3, googleAnalytics ainda pode existir,
+        // mas o recomendado geralmente é gtag. Mantive o seu para não quebrar.
         googleAnalytics: {
           trackingID: 'UA-141789564-1',
         },
@@ -68,7 +81,9 @@ module.exports = {
 
   plugins: [
     require.resolve('./sitePlugin'),
-    require.resolve('@cmfcmf/docusaurus-search-local', { language: 'pt-BR' }),
+
+    ['@easyops-cn/docusaurus-search-local', { language: ['pt', 'en'] }],
+
     [
       '@tereza-tech/docusaurus-plugin-zettel',
       {
@@ -88,6 +103,7 @@ module.exports = {
         autoCollapseCategories: true,
       },
     },
+
     navbar: {
       title: 'Home',
       // logo: {
@@ -132,7 +148,9 @@ module.exports = {
         },
       ],
     },
+
     image: 'img/braintris.png',
+
     footer: {
       style: 'dark',
       links: [
@@ -182,28 +200,16 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Beatriz Oliveira`,
     },
+
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
-    presets: [
-      [
-        '@docusaurus/preset-classic',
-        {
-          theme: {
-            customCss: require.resolve('./src/css/custom.css'),
-          },
-          gtag: {
-            trackingID: process.env.GTAG_ID,
-            anonymizeIP: true,
-          },
-        },
-      ],
-    ],
   },
 };
