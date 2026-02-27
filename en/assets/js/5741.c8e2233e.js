@@ -1,0 +1,1 @@
+(self.webpackChunkbraintris=self.webpackChunkbraintris||[]).push([[5741],{5741(){}}]);
