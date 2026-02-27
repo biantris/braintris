@@ -2,7 +2,8 @@
   "name": "braintris",
   "version": "0.0.0",
   "dependencies": {
-    "@docusaurus/core": "^3.1.1",
+    "@cmfcmf/docusaurus-search-local": "1.2.0",
+    "@docusaurus/core": "^3.9.2",
     "@docusaurus/plugin-content-docs": "^3.1.1",
     "@docusaurus/plugin-google-gtag": "^3.1.1",
     "@docusaurus/preset-classic": "^3.8.1",
