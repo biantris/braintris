@@ -41,7 +41,7 @@
     "eslint-plugin-prettier": "^5.5.5",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
-    "eslint-plugin-storybook": "^10.2.15",
+    "eslint-plugin-storybook": "^10.2.16",
     "https-browserify": "^1.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.3.2",
