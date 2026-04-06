@@ -14,7 +14,7 @@
     "chalk": "^5.6.2",
     "clsx": "^2.1.1",
     "core-js": "^3.49.0",
-    "dotenv": "^17.3.1",
+    "dotenv": "^17.4.1",
     "hast-util-is-element": "3.0.0",
     "mdx-embed": "^1.1.2",
     "mdx-mermaid": "^2.0.3",
