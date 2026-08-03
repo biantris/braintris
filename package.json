@@ -7,7 +7,7 @@
     "@docusaurus/plugin-content-docs": "^3.1.1",
     "@docusaurus/plugin-google-gtag": "^3.1.1",
     "@docusaurus/preset-classic": "^3.10.1",
-    "@easyops-cn/docusaurus-search-local": "^0.55.2",
+    "@easyops-cn/docusaurus-search-local": "^0.55.3",
     "@mdx-js/react": "^3.1.1",
     "@tereza-tech/docusaurus-plugin-zettel": "^0.2.0",
     "@tereza-tech/react-zettel": "^0.2.0",
