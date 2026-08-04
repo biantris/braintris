@@ -10294,10 +10294,10 @@ mdx-embed@^1.1.2:
   resolved "https://registry.yarnpkg.com/mdx-embed/-/mdx-embed-1.1.2.tgz#04468e8dcb3be9fe3e65207e88a83d2f76555a24"
   integrity sha512-AAronHC/sh4py+RhJOuX8+9+lyUbJsmCLquXNPCEHZ0llPWjMuwls77hII/lWI2kwBSPZPahrqti8kGTv1pi1w==
 
-mdx-mermaid@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/mdx-mermaid/-/mdx-mermaid-2.0.3.tgz#183d2ca9598f614a079e836d611d2c60e5618315"
-  integrity sha512-aVLaaVbQD8KmqzEk2AdLFb02MMENWkq5QQPD25sdtiswTIWk684JoaCOmy8oV+w3pthkcy2lRp0xVKIq1sLsqg==
+mdx-mermaid@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/mdx-mermaid/-/mdx-mermaid-2.0.4.tgz#fc087537e09cc1c3a190e8dc2122b9cff75f1e92"
+  integrity sha512-hluFdMbFIzjUdHWSUuM8n6jThVVCJLM1uHjkHAO1FcGPuWRP/7zHxD9ygwA5d/ujLxLzH9HcFTFRBIBvyXoKyg==
   optionalDependencies:
     estree-util-to-js "^1.2.0"
     estree-util-visit "^1.2.1"
