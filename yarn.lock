@@ -7009,14 +7009,14 @@ docusaurus-plugin-redoc@2.5.0:
     "@redocly/openapi-core" "1.16.0"
     redoc "2.4.0"
 
-docusaurus-theme-redoc@2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/docusaurus-theme-redoc/-/docusaurus-theme-redoc-2.5.0.tgz#b8d6f033a7d88485c0d86b3b28c0a98a5d7a8900"
-  integrity sha512-ykLmnnvE20Im3eABlIpUnXnT2gSHVAjgyy2fU2G8yecu7zqIE+G/SiBpBg/hrWMUycL31a8VSG7Ehkf3pg1u+A==
+docusaurus-theme-redoc@2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/docusaurus-theme-redoc/-/docusaurus-theme-redoc-2.5.1.tgz#c182b4ba27e8f6c82d564085042cdaadab79a80a"
+  integrity sha512-BGbDv748peVQwttDQbhGCnA5eXtcBa76WP+nmc7Vz0bwEJv5Dh9et/WHJBRlFu97ScMS38+WpBnexCvYv3HYww==
   dependencies:
     "@redocly/openapi-core" "1.16.0"
     clsx "^1.2.1"
-    lodash "^4.17.21"
+    lodash "^4.17.23"
     mobx "^6.12.4"
     postcss "^8.4.45"
     postcss-prefix-selector "^1.16.1"
@@ -9858,7 +9858,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha512-xfBaXQd9ryd9dlSDvnvI0lvxfLJlYAZzXomUYzLKtUeOQvOP5piqAWuGtrhWeqaXK9hhoM/iyJc5AV+XfsX3HQ==
 
-lodash@^4.17.20, lodash@^4.17.21:
+lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.23:
   version "4.18.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.18.1.tgz#ff2b66c1f6326d59513de2407bf881439812771c"
   integrity sha512-dMInicTPVE8d1e5otfwmmjlxkZoUpiVLwyeTdUsi/Caj/gfzzblBcCE5sRHV/AsjuCmxWrte2TNGSYuCeCq+0Q==
@@ -13074,13 +13074,13 @@ redoc@2.5.3:
     swagger2openapi "^7.0.8"
     url-template "^2.0.8"
 
-redocusaurus@2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/redocusaurus/-/redocusaurus-2.5.0.tgz#295b3c9a306a441668e78a0c55120ed05457c950"
-  integrity sha512-QWJX2hgnEfSDb7fZzS4iZe6aqdAvm/XLCsNv6RkgDw6Pl/lsTZKipP2n1r5QS1CC5hY8eAwsjVXeF7B03vkz2g==
+redocusaurus@2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/redocusaurus/-/redocusaurus-2.5.2.tgz#9090a63c79a8c07267936aa2a0688fa9a87e0346"
+  integrity sha512-81xELtq+yRW1p+407yroPRvmIDjK5QNldYi5hRAJC1vVPKWm6lzBQ9HihE+51520MuAbZWmNNVa1ml5DhlDd1A==
   dependencies:
     docusaurus-plugin-redoc "2.5.0"
-    docusaurus-theme-redoc "2.5.0"
+    docusaurus-theme-redoc "2.5.1"
 
 reflect-metadata@^0.2.2:
   version "0.2.2"
