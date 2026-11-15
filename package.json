@@ -16,7 +16,6 @@
     "core-js": "^3.49.0",
     "dotenv": "^17.4.2",
     "hast-util-is-element": "3.0.0",
-    "mdx-embed": "^1.1.2",
     "mdx-mermaid": "^2.0.4",
     "mobx": "^6.16.1",
     "react": "18.3.1",
@@ -30,8 +29,8 @@
     "styled-components": "^6.4.4"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.18.0",
-    "@typescript-eslint/parser": "^7.17.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.5",
