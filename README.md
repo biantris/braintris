@@ -50,11 +50,9 @@ The purpose of this repository is to publicly showcase my journey and learnings 
 - clone this repo
 
 ```sh
-> yarn
-#or
-> yarn install
+> npm install
 
-> yarn start
+> npm run start
 
 Open in: http://localhost:3000
 ```
