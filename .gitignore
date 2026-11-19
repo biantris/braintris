@@ -74,3 +74,6 @@ yarn-error.log
 junit.xml
 .yarn
 .yarnrc
+
+yarn.lock
+package-lock.json
